@@ -1,0 +1,6 @@
+D:\Users\George Manov\Desktop\SoftUni\C# 0\07 CSharp Advanced\HW_CSharp_Advanced\03 PrimesInRange\bin\Debug\03 PrimesInRange.exe.config
+D:\Users\George Manov\Desktop\SoftUni\C# 0\07 CSharp Advanced\HW_CSharp_Advanced\03 PrimesInRange\bin\Debug\03 PrimesInRange.exe
+D:\Users\George Manov\Desktop\SoftUni\C# 0\07 CSharp Advanced\HW_CSharp_Advanced\03 PrimesInRange\bin\Debug\03 PrimesInRange.pdb
+D:\Users\George Manov\Desktop\SoftUni\C# 0\07 CSharp Advanced\HW_CSharp_Advanced\03 PrimesInRange\obj\Debug\03 PrimesInRange.csprojResolveAssemblyReference.cache
+D:\Users\George Manov\Desktop\SoftUni\C# 0\07 CSharp Advanced\HW_CSharp_Advanced\03 PrimesInRange\obj\Debug\03 PrimesInRange.exe
+D:\Users\George Manov\Desktop\SoftUni\C# 0\07 CSharp Advanced\HW_CSharp_Advanced\03 PrimesInRange\obj\Debug\03 PrimesInRange.pdb

@@ -1,0 +1,5 @@
+D:\Users\George Manov\Desktop\SoftUni\C# 0\01 Introduction to programming\HWIntroToProgramming\15 AgePlusTen\bin\Debug\15 AgePlusTen.exe.config
+D:\Users\George Manov\Desktop\SoftUni\C# 0\01 Introduction to programming\HWIntroToProgramming\15 AgePlusTen\bin\Debug\15 AgePlusTen.exe
+D:\Users\George Manov\Desktop\SoftUni\C# 0\01 Introduction to programming\HWIntroToProgramming\15 AgePlusTen\bin\Debug\15 AgePlusTen.pdb
+D:\Users\George Manov\Desktop\SoftUni\C# 0\01 Introduction to programming\HWIntroToProgramming\15 AgePlusTen\obj\Debug\15 AgePlusTen.exe
+D:\Users\George Manov\Desktop\SoftUni\C# 0\01 Introduction to programming\HWIntroToProgramming\15 AgePlusTen\obj\Debug\15 AgePlusTen.pdb

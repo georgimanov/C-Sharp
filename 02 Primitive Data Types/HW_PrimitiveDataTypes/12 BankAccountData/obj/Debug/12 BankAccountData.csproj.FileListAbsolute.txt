@@ -1,0 +1,5 @@
+D:\Users\George Manov\Desktop\SoftUni\C# 0\02 Primitive Data Types\HW_PrimitiveDataTypes\12 BankAccountData\bin\Debug\12 BankAccountData.exe.config
+D:\Users\George Manov\Desktop\SoftUni\C# 0\02 Primitive Data Types\HW_PrimitiveDataTypes\12 BankAccountData\bin\Debug\12 BankAccountData.exe
+D:\Users\George Manov\Desktop\SoftUni\C# 0\02 Primitive Data Types\HW_PrimitiveDataTypes\12 BankAccountData\bin\Debug\12 BankAccountData.pdb
+D:\Users\George Manov\Desktop\SoftUni\C# 0\02 Primitive Data Types\HW_PrimitiveDataTypes\12 BankAccountData\obj\Debug\12 BankAccountData.exe
+D:\Users\George Manov\Desktop\SoftUni\C# 0\02 Primitive Data Types\HW_PrimitiveDataTypes\12 BankAccountData\obj\Debug\12 BankAccountData.pdb

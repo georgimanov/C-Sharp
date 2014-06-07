@@ -1,0 +1,6 @@
+D:\Users\George Manov\Desktop\SoftUni\C# 0\03 Operators-Expressions-and-Statements\HW_Operators_Expressions_and_Statements\16 BitExchangeAdvanced\bin\Debug\16 BitExchangeAdvanced.exe.config
+D:\Users\George Manov\Desktop\SoftUni\C# 0\03 Operators-Expressions-and-Statements\HW_Operators_Expressions_and_Statements\16 BitExchangeAdvanced\bin\Debug\16 BitExchangeAdvanced.exe
+D:\Users\George Manov\Desktop\SoftUni\C# 0\03 Operators-Expressions-and-Statements\HW_Operators_Expressions_and_Statements\16 BitExchangeAdvanced\bin\Debug\16 BitExchangeAdvanced.pdb
+D:\Users\George Manov\Desktop\SoftUni\C# 0\03 Operators-Expressions-and-Statements\HW_Operators_Expressions_and_Statements\16 BitExchangeAdvanced\obj\Debug\16 BitExchangeAdvanced.exe
+D:\Users\George Manov\Desktop\SoftUni\C# 0\03 Operators-Expressions-and-Statements\HW_Operators_Expressions_and_Statements\16 BitExchangeAdvanced\obj\Debug\16 BitExchangeAdvanced.pdb
+D:\Users\George Manov\Desktop\SoftUni\C# 0\03 Operators-Expressions-and-Statements\HW_Operators_Expressions_and_Statements\16 BitExchangeAdvanced\obj\Debug\16 BitExchangeAdvanced.csprojResolveAssemblyReference.cache

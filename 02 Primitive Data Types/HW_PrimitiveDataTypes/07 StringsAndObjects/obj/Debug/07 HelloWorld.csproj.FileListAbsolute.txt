@@ -1,0 +1,3 @@
+D:\Users\George Manov\Desktop\SoftUni\C# 0\02 Primitive Data Types\HW_PrimitiveDataTypes\07 StringsAndObjects\bin\Debug\07 StringsAndObjects.exe.config
+D:\Users\George Manov\Desktop\SoftUni\C# 0\02 Primitive Data Types\HW_PrimitiveDataTypes\07 StringsAndObjects\obj\Debug\07 StringsAndObjects.exe
+D:\Users\George Manov\Desktop\SoftUni\C# 0\02 Primitive Data Types\HW_PrimitiveDataTypes\07 StringsAndObjects\obj\Debug\07 StringsAndObjects.pdb

@@ -1,0 +1,5 @@
+D:\Users\George Manov\Desktop\SoftUni\C# 0\01 Introduction to programming\HWIntroToProgramming\04 HelloWorld\bin\Debug\04 HelloWorld.exe.config
+D:\Users\George Manov\Desktop\SoftUni\C# 0\01 Introduction to programming\HWIntroToProgramming\04 HelloWorld\bin\Debug\04 HelloWorld.exe
+D:\Users\George Manov\Desktop\SoftUni\C# 0\01 Introduction to programming\HWIntroToProgramming\04 HelloWorld\bin\Debug\04 HelloWorld.pdb
+D:\Users\George Manov\Desktop\SoftUni\C# 0\01 Introduction to programming\HWIntroToProgramming\04 HelloWorld\obj\Debug\04 HelloWorld.exe
+D:\Users\George Manov\Desktop\SoftUni\C# 0\01 Introduction to programming\HWIntroToProgramming\04 HelloWorld\obj\Debug\04 HelloWorld.pdb

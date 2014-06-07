@@ -1,0 +1,5 @@
+D:\Users\George Manov\Desktop\SoftUni\C# 0\06 Loops\HW_Loops\06 CalculateNFactKFact\bin\Debug\06 CalculateNFactKFact.exe.config
+D:\Users\George Manov\Desktop\SoftUni\C# 0\06 Loops\HW_Loops\06 CalculateNFactKFact\bin\Debug\06 CalculateNFactKFact.exe
+D:\Users\George Manov\Desktop\SoftUni\C# 0\06 Loops\HW_Loops\06 CalculateNFactKFact\bin\Debug\06 CalculateNFactKFact.pdb
+D:\Users\George Manov\Desktop\SoftUni\C# 0\06 Loops\HW_Loops\06 CalculateNFactKFact\obj\Debug\06 CalculateNFactKFact.exe
+D:\Users\George Manov\Desktop\SoftUni\C# 0\06 Loops\HW_Loops\06 CalculateNFactKFact\obj\Debug\06 CalculateNFactKFact.pdb

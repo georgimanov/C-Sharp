@@ -1,0 +1,5 @@
+D:\Users\George Manov\Desktop\SoftUni\C# 0\01 Introduction to programming\HWIntroToProgramming\09 PrintSequence\bin\Debug\09 PrintSequence.exe.config
+D:\Users\George Manov\Desktop\SoftUni\C# 0\01 Introduction to programming\HWIntroToProgramming\09 PrintSequence\bin\Debug\09 PrintSequence.exe
+D:\Users\George Manov\Desktop\SoftUni\C# 0\01 Introduction to programming\HWIntroToProgramming\09 PrintSequence\bin\Debug\09 PrintSequence.pdb
+D:\Users\George Manov\Desktop\SoftUni\C# 0\01 Introduction to programming\HWIntroToProgramming\09 PrintSequence\obj\Debug\09 PrintSequence.exe
+D:\Users\George Manov\Desktop\SoftUni\C# 0\01 Introduction to programming\HWIntroToProgramming\09 PrintSequence\obj\Debug\09 PrintSequence.pdb

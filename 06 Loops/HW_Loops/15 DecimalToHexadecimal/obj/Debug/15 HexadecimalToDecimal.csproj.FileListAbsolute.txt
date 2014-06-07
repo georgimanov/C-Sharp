@@ -1,0 +1,5 @@
+D:\Users\George Manov\Desktop\SoftUni\C# 0\06 Loops\HW_Loops\15 DecimalToHexadecimal\bin\Debug\15 DecimalToHexadecimal.exe.config
+D:\Users\George Manov\Desktop\SoftUni\C# 0\06 Loops\HW_Loops\15 DecimalToHexadecimal\bin\Debug\15 DecimalToHexadecimal.exe
+D:\Users\George Manov\Desktop\SoftUni\C# 0\06 Loops\HW_Loops\15 DecimalToHexadecimal\bin\Debug\15 DecimalToHexadecimal.pdb
+D:\Users\George Manov\Desktop\SoftUni\C# 0\06 Loops\HW_Loops\15 DecimalToHexadecimal\obj\Debug\15 DecimalToHexadecimal.exe
+D:\Users\George Manov\Desktop\SoftUni\C# 0\06 Loops\HW_Loops\15 DecimalToHexadecimal\obj\Debug\15 DecimalToHexadecimal.pdb

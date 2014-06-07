@@ -1,0 +1,6 @@
+D:\Users\George Manov\Desktop\SoftUni\C# 0\03 Operators-Expressions-and-Statements\HW_Operators_Expressions_and_Statements\01. OddOrEven\bin\Debug\_01.OddOrEven.exe.config
+D:\Users\George Manov\Desktop\SoftUni\C# 0\03 Operators-Expressions-and-Statements\HW_Operators_Expressions_and_Statements\01. OddOrEven\bin\Debug\_01.OddOrEven.exe
+D:\Users\George Manov\Desktop\SoftUni\C# 0\03 Operators-Expressions-and-Statements\HW_Operators_Expressions_and_Statements\01. OddOrEven\bin\Debug\_01.OddOrEven.pdb
+D:\Users\George Manov\Desktop\SoftUni\C# 0\03 Operators-Expressions-and-Statements\HW_Operators_Expressions_and_Statements\01. OddOrEven\obj\Debug\01. OddOrEven.csprojResolveAssemblyReference.cache
+D:\Users\George Manov\Desktop\SoftUni\C# 0\03 Operators-Expressions-and-Statements\HW_Operators_Expressions_and_Statements\01. OddOrEven\obj\Debug\_01.OddOrEven.exe
+D:\Users\George Manov\Desktop\SoftUni\C# 0\03 Operators-Expressions-and-Statements\HW_Operators_Expressions_and_Statements\01. OddOrEven\obj\Debug\_01.OddOrEven.pdb

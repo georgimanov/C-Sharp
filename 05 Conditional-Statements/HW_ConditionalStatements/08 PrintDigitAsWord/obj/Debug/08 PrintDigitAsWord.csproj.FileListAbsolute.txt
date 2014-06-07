@@ -1,0 +1,5 @@
+D:\Users\George Manov\Desktop\SoftUni\C# 0\05 Conditional-Statements\HW_ConditionalStatements\08 PrintDigitAsWord\bin\Debug\08 PrintDigitAsWord.exe.config
+D:\Users\George Manov\Desktop\SoftUni\C# 0\05 Conditional-Statements\HW_ConditionalStatements\08 PrintDigitAsWord\bin\Debug\08 PrintDigitAsWord.exe
+D:\Users\George Manov\Desktop\SoftUni\C# 0\05 Conditional-Statements\HW_ConditionalStatements\08 PrintDigitAsWord\bin\Debug\08 PrintDigitAsWord.pdb
+D:\Users\George Manov\Desktop\SoftUni\C# 0\05 Conditional-Statements\HW_ConditionalStatements\08 PrintDigitAsWord\obj\Debug\08 PrintDigitAsWord.exe
+D:\Users\George Manov\Desktop\SoftUni\C# 0\05 Conditional-Statements\HW_ConditionalStatements\08 PrintDigitAsWord\obj\Debug\08 PrintDigitAsWord.pdb

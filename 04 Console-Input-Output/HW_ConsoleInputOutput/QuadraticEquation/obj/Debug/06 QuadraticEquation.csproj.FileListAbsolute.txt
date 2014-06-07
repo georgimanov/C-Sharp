@@ -1,0 +1,6 @@
+D:\Users\George Manov\Desktop\SoftUni\C# 0\04 Console-Input-Output\HW_ConsoleInputOutput\QuadraticEquation\bin\Debug\QuadraticEquation.exe.config
+D:\Users\George Manov\Desktop\SoftUni\C# 0\04 Console-Input-Output\HW_ConsoleInputOutput\QuadraticEquation\obj\Debug\06 QuadraticEquation.csprojResolveAssemblyReference.cache
+D:\Users\George Manov\Desktop\SoftUni\C# 0\04 Console-Input-Output\HW_ConsoleInputOutput\QuadraticEquation\bin\Debug\QuadraticEquation.exe
+D:\Users\George Manov\Desktop\SoftUni\C# 0\04 Console-Input-Output\HW_ConsoleInputOutput\QuadraticEquation\bin\Debug\QuadraticEquation.pdb
+D:\Users\George Manov\Desktop\SoftUni\C# 0\04 Console-Input-Output\HW_ConsoleInputOutput\QuadraticEquation\obj\Debug\QuadraticEquation.exe
+D:\Users\George Manov\Desktop\SoftUni\C# 0\04 Console-Input-Output\HW_ConsoleInputOutput\QuadraticEquation\obj\Debug\QuadraticEquation.pdb

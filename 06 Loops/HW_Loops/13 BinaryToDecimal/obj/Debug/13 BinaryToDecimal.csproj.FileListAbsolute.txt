@@ -1,0 +1,6 @@
+D:\Users\George Manov\Desktop\SoftUni\C# 0\06 Loops\HW_Loops\13 BinaryToDecimal\bin\Debug\13 BinaryToDecimal.exe.config
+D:\Users\George Manov\Desktop\SoftUni\C# 0\06 Loops\HW_Loops\13 BinaryToDecimal\bin\Debug\13 BinaryToDecimal.exe
+D:\Users\George Manov\Desktop\SoftUni\C# 0\06 Loops\HW_Loops\13 BinaryToDecimal\bin\Debug\13 BinaryToDecimal.pdb
+D:\Users\George Manov\Desktop\SoftUni\C# 0\06 Loops\HW_Loops\13 BinaryToDecimal\obj\Debug\13 BinaryToDecimal.csprojResolveAssemblyReference.cache
+D:\Users\George Manov\Desktop\SoftUni\C# 0\06 Loops\HW_Loops\13 BinaryToDecimal\obj\Debug\13 BinaryToDecimal.exe
+D:\Users\George Manov\Desktop\SoftUni\C# 0\06 Loops\HW_Loops\13 BinaryToDecimal\obj\Debug\13 BinaryToDecimal.pdb

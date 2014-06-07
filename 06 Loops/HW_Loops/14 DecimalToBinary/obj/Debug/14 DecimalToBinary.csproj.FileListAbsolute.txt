@@ -1,0 +1,6 @@
+D:\Users\George Manov\Desktop\SoftUni\C# 0\06 Loops\HW_Loops\14 DecimalToBinary\bin\Debug\14 DecimalToBinary.exe.config
+D:\Users\George Manov\Desktop\SoftUni\C# 0\06 Loops\HW_Loops\14 DecimalToBinary\bin\Debug\14 DecimalToBinary.exe
+D:\Users\George Manov\Desktop\SoftUni\C# 0\06 Loops\HW_Loops\14 DecimalToBinary\bin\Debug\14 DecimalToBinary.pdb
+D:\Users\George Manov\Desktop\SoftUni\C# 0\06 Loops\HW_Loops\14 DecimalToBinary\obj\Debug\14 DecimalToBinary.csprojResolveAssemblyReference.cache
+D:\Users\George Manov\Desktop\SoftUni\C# 0\06 Loops\HW_Loops\14 DecimalToBinary\obj\Debug\14 DecimalToBinary.exe
+D:\Users\George Manov\Desktop\SoftUni\C# 0\06 Loops\HW_Loops\14 DecimalToBinary\obj\Debug\14 DecimalToBinary.pdb

@@ -1,0 +1,6 @@
+D:\Users\George Manov\Desktop\SoftUni\C# 0\06 Loops\HW_Loops\08 CatalanNumbers\bin\Debug\08 CatalanNumbers.exe.config
+D:\Users\George Manov\Desktop\SoftUni\C# 0\06 Loops\HW_Loops\08 CatalanNumbers\bin\Debug\08 CatalanNumbers.exe
+D:\Users\George Manov\Desktop\SoftUni\C# 0\06 Loops\HW_Loops\08 CatalanNumbers\bin\Debug\08 CatalanNumbers.pdb
+D:\Users\George Manov\Desktop\SoftUni\C# 0\06 Loops\HW_Loops\08 CatalanNumbers\obj\Debug\08 CatalanNumbers.exe
+D:\Users\George Manov\Desktop\SoftUni\C# 0\06 Loops\HW_Loops\08 CatalanNumbers\obj\Debug\08 CatalanNumbers.pdb
+D:\Users\George Manov\Desktop\SoftUni\C# 0\06 Loops\HW_Loops\08 CatalanNumbers\obj\Debug\08 CatalanNumbers.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\Users\George Manov\Desktop\SoftUni\C# 0\05 Conditional-Statements\HW_ConditionalStatements\10 IsItBeerTime\bin\Debug\10 IsItBeerTime.exe.config
+D:\Users\George Manov\Desktop\SoftUni\C# 0\05 Conditional-Statements\HW_ConditionalStatements\10 IsItBeerTime\bin\Debug\10 IsItBeerTime.exe
+D:\Users\George Manov\Desktop\SoftUni\C# 0\05 Conditional-Statements\HW_ConditionalStatements\10 IsItBeerTime\bin\Debug\10 IsItBeerTime.pdb
+D:\Users\George Manov\Desktop\SoftUni\C# 0\05 Conditional-Statements\HW_ConditionalStatements\10 IsItBeerTime\obj\Debug\10 IsItBeerTime.exe
+D:\Users\George Manov\Desktop\SoftUni\C# 0\05 Conditional-Statements\HW_ConditionalStatements\10 IsItBeerTime\obj\Debug\10 IsItBeerTime.pdb
+D:\Users\George Manov\Desktop\SoftUni\C# 0\05 Conditional-Statements\HW_ConditionalStatements\10 IsItBeerTime\obj\Debug\10 IsItBeerTime.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\Users\George Manov\Desktop\SoftUni\C# 0\07 CSharp Advanced\HW_CSharp_Advanced\11 CountOfLetters\bin\Debug\11 CountOfLetters.exe.config
+D:\Users\George Manov\Desktop\SoftUni\C# 0\07 CSharp Advanced\HW_CSharp_Advanced\11 CountOfLetters\bin\Debug\11 CountOfLetters.exe
+D:\Users\George Manov\Desktop\SoftUni\C# 0\07 CSharp Advanced\HW_CSharp_Advanced\11 CountOfLetters\bin\Debug\11 CountOfLetters.pdb
+D:\Users\George Manov\Desktop\SoftUni\C# 0\07 CSharp Advanced\HW_CSharp_Advanced\11 CountOfLetters\obj\Debug\11 CountOfLetters.csprojResolveAssemblyReference.cache
+D:\Users\George Manov\Desktop\SoftUni\C# 0\07 CSharp Advanced\HW_CSharp_Advanced\11 CountOfLetters\obj\Debug\11 CountOfLetters.exe
+D:\Users\George Manov\Desktop\SoftUni\C# 0\07 CSharp Advanced\HW_CSharp_Advanced\11 CountOfLetters\obj\Debug\11 CountOfLetters.pdb

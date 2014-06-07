@@ -1,0 +1,5 @@
+D:\Users\George Manov\Desktop\SoftUni\C# 0\02 Primitive Data Types\HW_PrimitiveDataTypes\04 VarInHeximalFormat\bin\Debug\04 VarInHeximalFormat.exe.config
+D:\Users\George Manov\Desktop\SoftUni\C# 0\02 Primitive Data Types\HW_PrimitiveDataTypes\04 VarInHeximalFormat\bin\Debug\04 VarInHeximalFormat.exe
+D:\Users\George Manov\Desktop\SoftUni\C# 0\02 Primitive Data Types\HW_PrimitiveDataTypes\04 VarInHeximalFormat\bin\Debug\04 VarInHeximalFormat.pdb
+D:\Users\George Manov\Desktop\SoftUni\C# 0\02 Primitive Data Types\HW_PrimitiveDataTypes\04 VarInHeximalFormat\obj\Debug\04 VarInHeximalFormat.exe
+D:\Users\George Manov\Desktop\SoftUni\C# 0\02 Primitive Data Types\HW_PrimitiveDataTypes\04 VarInHeximalFormat\obj\Debug\04 VarInHeximalFormat.pdb

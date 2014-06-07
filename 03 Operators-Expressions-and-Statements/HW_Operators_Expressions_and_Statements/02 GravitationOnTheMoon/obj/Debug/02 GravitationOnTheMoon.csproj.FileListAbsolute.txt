@@ -1,0 +1,6 @@
+D:\Users\George Manov\Desktop\SoftUni\C# 0\03 Operators-Expressions-and-Statements\HW_Operators_Expressions_and_Statements\02 GravitationOnTheMoon\bin\Debug\02 GravitationOnTheMoon.exe.config
+D:\Users\George Manov\Desktop\SoftUni\C# 0\03 Operators-Expressions-and-Statements\HW_Operators_Expressions_and_Statements\02 GravitationOnTheMoon\bin\Debug\02 GravitationOnTheMoon.exe
+D:\Users\George Manov\Desktop\SoftUni\C# 0\03 Operators-Expressions-and-Statements\HW_Operators_Expressions_and_Statements\02 GravitationOnTheMoon\bin\Debug\02 GravitationOnTheMoon.pdb
+D:\Users\George Manov\Desktop\SoftUni\C# 0\03 Operators-Expressions-and-Statements\HW_Operators_Expressions_and_Statements\02 GravitationOnTheMoon\obj\Debug\02 GravitationOnTheMoon.exe
+D:\Users\George Manov\Desktop\SoftUni\C# 0\03 Operators-Expressions-and-Statements\HW_Operators_Expressions_and_Statements\02 GravitationOnTheMoon\obj\Debug\02 GravitationOnTheMoon.pdb
+D:\Users\George Manov\Desktop\SoftUni\C# 0\03 Operators-Expressions-and-Statements\HW_Operators_Expressions_and_Statements\02 GravitationOnTheMoon\obj\Debug\02 GravitationOnTheMoon.csprojResolveAssemblyReference.cache

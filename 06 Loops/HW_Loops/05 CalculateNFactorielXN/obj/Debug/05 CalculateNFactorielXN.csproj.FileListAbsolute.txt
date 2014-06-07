@@ -1,0 +1,5 @@
+D:\Users\George Manov\Desktop\SoftUni\C# 0\06 Loops\HW_Loops\05 CalculateNFactorielXN\bin\Debug\05 CalculateNFactorielXN.exe.config
+D:\Users\George Manov\Desktop\SoftUni\C# 0\06 Loops\HW_Loops\05 CalculateNFactorielXN\bin\Debug\05 CalculateNFactorielXN.exe
+D:\Users\George Manov\Desktop\SoftUni\C# 0\06 Loops\HW_Loops\05 CalculateNFactorielXN\bin\Debug\05 CalculateNFactorielXN.pdb
+D:\Users\George Manov\Desktop\SoftUni\C# 0\06 Loops\HW_Loops\05 CalculateNFactorielXN\obj\Debug\05 CalculateNFactorielXN.exe
+D:\Users\George Manov\Desktop\SoftUni\C# 0\06 Loops\HW_Loops\05 CalculateNFactorielXN\obj\Debug\05 CalculateNFactorielXN.pdb
