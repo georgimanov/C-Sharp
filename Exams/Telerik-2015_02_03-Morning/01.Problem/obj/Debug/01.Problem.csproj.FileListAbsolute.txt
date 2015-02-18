@@ -1,0 +1,6 @@
+D:\Telerik\2.0\Exam 2015-2-3\Exam\01.Problem\bin\Debug\01.Problem.exe.config
+D:\Telerik\2.0\Exam 2015-2-3\Exam\01.Problem\bin\Debug\01.Problem.exe
+D:\Telerik\2.0\Exam 2015-2-3\Exam\01.Problem\bin\Debug\01.Problem.pdb
+D:\Telerik\2.0\Exam 2015-2-3\Exam\01.Problem\obj\Debug\01.Problem.csprojResolveAssemblyReference.cache
+D:\Telerik\2.0\Exam 2015-2-3\Exam\01.Problem\obj\Debug\01.Problem.exe
+D:\Telerik\2.0\Exam 2015-2-3\Exam\01.Problem\obj\Debug\01.Problem.pdb

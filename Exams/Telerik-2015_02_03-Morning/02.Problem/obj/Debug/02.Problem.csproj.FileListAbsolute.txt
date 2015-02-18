@@ -1,0 +1,5 @@
+D:\Telerik\2.0\Exam 2015-2-3\Exam\02.Problem\bin\Debug\02.Problem.exe.config
+D:\Telerik\2.0\Exam 2015-2-3\Exam\02.Problem\bin\Debug\02.Problem.exe
+D:\Telerik\2.0\Exam 2015-2-3\Exam\02.Problem\bin\Debug\02.Problem.pdb
+D:\Telerik\2.0\Exam 2015-2-3\Exam\02.Problem\obj\Debug\02.Problem.exe
+D:\Telerik\2.0\Exam 2015-2-3\Exam\02.Problem\obj\Debug\02.Problem.pdb

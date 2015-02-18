@@ -1,0 +1,6 @@
+D:\Telerik\2.0\Exam 2015-2-3\Exam\99.Test\bin\Debug\99.Test.exe.config
+D:\Telerik\2.0\Exam 2015-2-3\Exam\99.Test\bin\Debug\99.Test.exe
+D:\Telerik\2.0\Exam 2015-2-3\Exam\99.Test\bin\Debug\99.Test.pdb
+D:\Telerik\2.0\Exam 2015-2-3\Exam\99.Test\obj\Debug\99.Test.exe
+D:\Telerik\2.0\Exam 2015-2-3\Exam\99.Test\obj\Debug\99.Test.pdb
+D:\Telerik\2.0\Exam 2015-2-3\Exam\99.Test\obj\Debug\99.Test.csprojResolveAssemblyReference.cache
