@@ -1,5 +1,0 @@
-D:\Users\George Manov\Desktop\SoftUni\C# 0\02 Primitive Data Types\HW_PrimitiveDataTypes\10 ExchangeValues\bin\Debug\10 ExchangeValues.exe.config
-D:\Users\George Manov\Desktop\SoftUni\C# 0\02 Primitive Data Types\HW_PrimitiveDataTypes\10 ExchangeValues\bin\Debug\10 ExchangeValues.exe
-D:\Users\George Manov\Desktop\SoftUni\C# 0\02 Primitive Data Types\HW_PrimitiveDataTypes\10 ExchangeValues\bin\Debug\10 ExchangeValues.pdb
-D:\Users\George Manov\Desktop\SoftUni\C# 0\02 Primitive Data Types\HW_PrimitiveDataTypes\10 ExchangeValues\obj\Debug\10 ExchangeValues.exe
-D:\Users\George Manov\Desktop\SoftUni\C# 0\02 Primitive Data Types\HW_PrimitiveDataTypes\10 ExchangeValues\obj\Debug\10 ExchangeValues.pdb

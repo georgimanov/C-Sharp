@@ -1,5 +1,0 @@
-D:\Users\George Manov\Desktop\SoftUni\C# 0\07 CSharp Advanced\HW_CSharp_Advanced\15 ExtractURLsfromText\bin\Debug\15 ExtractURLsfromText.exe.config
-D:\Users\George Manov\Desktop\SoftUni\C# 0\07 CSharp Advanced\HW_CSharp_Advanced\15 ExtractURLsfromText\bin\Debug\15 ExtractURLsfromText.exe
-D:\Users\George Manov\Desktop\SoftUni\C# 0\07 CSharp Advanced\HW_CSharp_Advanced\15 ExtractURLsfromText\bin\Debug\15 ExtractURLsfromText.pdb
-D:\Users\George Manov\Desktop\SoftUni\C# 0\07 CSharp Advanced\HW_CSharp_Advanced\15 ExtractURLsfromText\obj\Debug\15 ExtractURLsfromText.exe
-D:\Users\George Manov\Desktop\SoftUni\C# 0\07 CSharp Advanced\HW_CSharp_Advanced\15 ExtractURLsfromText\obj\Debug\15 ExtractURLsfromText.pdb

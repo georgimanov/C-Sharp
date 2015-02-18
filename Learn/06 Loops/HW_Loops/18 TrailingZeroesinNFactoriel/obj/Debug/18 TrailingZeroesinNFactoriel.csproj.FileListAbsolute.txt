@@ -1,6 +1,0 @@
-D:\Users\George Manov\Desktop\SoftUni\C# 0\06 Loops\HW_Loops\18 TrailingZeroesinNFactoriel\bin\Debug\18 TrailingZeroesinNFactoriel.exe.config
-D:\Users\George Manov\Desktop\SoftUni\C# 0\06 Loops\HW_Loops\18 TrailingZeroesinNFactoriel\bin\Debug\18 TrailingZeroesinNFactoriel.exe
-D:\Users\George Manov\Desktop\SoftUni\C# 0\06 Loops\HW_Loops\18 TrailingZeroesinNFactoriel\bin\Debug\18 TrailingZeroesinNFactoriel.pdb
-D:\Users\George Manov\Desktop\SoftUni\C# 0\06 Loops\HW_Loops\18 TrailingZeroesinNFactoriel\obj\Debug\18 TrailingZeroesinNFactoriel.csprojResolveAssemblyReference.cache
-D:\Users\George Manov\Desktop\SoftUni\C# 0\06 Loops\HW_Loops\18 TrailingZeroesinNFactoriel\obj\Debug\18 TrailingZeroesinNFactoriel.exe
-D:\Users\George Manov\Desktop\SoftUni\C# 0\06 Loops\HW_Loops\18 TrailingZeroesinNFactoriel\obj\Debug\18 TrailingZeroesinNFactoriel.pdb

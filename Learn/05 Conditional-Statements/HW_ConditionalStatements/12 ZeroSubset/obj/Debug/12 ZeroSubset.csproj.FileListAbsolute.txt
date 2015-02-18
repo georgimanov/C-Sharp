@@ -1,6 +1,0 @@
-D:\Users\George Manov\Desktop\SoftUni\C# 0\05 Conditional-Statements\HW_ConditionalStatements\12 ZeroSubset\bin\Debug\12 ZeroSubset.exe.config
-D:\Users\George Manov\Desktop\SoftUni\C# 0\05 Conditional-Statements\HW_ConditionalStatements\12 ZeroSubset\bin\Debug\12 ZeroSubset.exe
-D:\Users\George Manov\Desktop\SoftUni\C# 0\05 Conditional-Statements\HW_ConditionalStatements\12 ZeroSubset\bin\Debug\12 ZeroSubset.pdb
-D:\Users\George Manov\Desktop\SoftUni\C# 0\05 Conditional-Statements\HW_ConditionalStatements\12 ZeroSubset\obj\Debug\12 ZeroSubset.exe
-D:\Users\George Manov\Desktop\SoftUni\C# 0\05 Conditional-Statements\HW_ConditionalStatements\12 ZeroSubset\obj\Debug\12 ZeroSubset.pdb
-D:\Users\George Manov\Desktop\SoftUni\C# 0\05 Conditional-Statements\HW_ConditionalStatements\12 ZeroSubset\obj\Debug\12 ZeroSubset.csprojResolveAssemblyReference.cache

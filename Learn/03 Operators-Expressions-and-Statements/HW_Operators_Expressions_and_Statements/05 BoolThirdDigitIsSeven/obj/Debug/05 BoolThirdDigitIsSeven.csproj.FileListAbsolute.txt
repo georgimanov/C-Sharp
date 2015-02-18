@@ -1,5 +1,0 @@
-D:\Users\George Manov\Desktop\SoftUni\C# 0\03 Operators-Expressions-and-Statements\HW_Operators_Expressions_and_Statements\05 BoolThirdDigitIsSeven\bin\Debug\05 BoolThirdDigitIsSeven.exe.config
-D:\Users\George Manov\Desktop\SoftUni\C# 0\03 Operators-Expressions-and-Statements\HW_Operators_Expressions_and_Statements\05 BoolThirdDigitIsSeven\bin\Debug\05 BoolThirdDigitIsSeven.exe
-D:\Users\George Manov\Desktop\SoftUni\C# 0\03 Operators-Expressions-and-Statements\HW_Operators_Expressions_and_Statements\05 BoolThirdDigitIsSeven\bin\Debug\05 BoolThirdDigitIsSeven.pdb
-D:\Users\George Manov\Desktop\SoftUni\C# 0\03 Operators-Expressions-and-Statements\HW_Operators_Expressions_and_Statements\05 BoolThirdDigitIsSeven\obj\Debug\05 BoolThirdDigitIsSeven.exe
-D:\Users\George Manov\Desktop\SoftUni\C# 0\03 Operators-Expressions-and-Statements\HW_Operators_Expressions_and_Statements\05 BoolThirdDigitIsSeven\obj\Debug\05 BoolThirdDigitIsSeven.pdb

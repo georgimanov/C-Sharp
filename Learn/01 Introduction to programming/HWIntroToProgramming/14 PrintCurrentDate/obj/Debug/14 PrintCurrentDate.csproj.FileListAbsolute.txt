@@ -1,5 +1,0 @@
-D:\Users\George Manov\Desktop\SoftUni\C# 0\01 Introduction to programming\HWIntroToProgramming\14 PrintCurrentDate\bin\Debug\14 PrintCurrentDate.exe.config
-D:\Users\George Manov\Desktop\SoftUni\C# 0\01 Introduction to programming\HWIntroToProgramming\14 PrintCurrentDate\bin\Debug\14 PrintCurrentDate.exe
-D:\Users\George Manov\Desktop\SoftUni\C# 0\01 Introduction to programming\HWIntroToProgramming\14 PrintCurrentDate\bin\Debug\14 PrintCurrentDate.pdb
-D:\Users\George Manov\Desktop\SoftUni\C# 0\01 Introduction to programming\HWIntroToProgramming\14 PrintCurrentDate\obj\Debug\14 PrintCurrentDate.exe
-D:\Users\George Manov\Desktop\SoftUni\C# 0\01 Introduction to programming\HWIntroToProgramming\14 PrintCurrentDate\obj\Debug\14 PrintCurrentDate.pdb

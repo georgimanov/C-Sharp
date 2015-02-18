@@ -1,5 +1,0 @@
-D:\Users\George Manov\Desktop\SoftUni\C# 0\01 Introduction to programming\HWIntroToProgramming\10 ReformatCode\bin\Debug\10 ReformatCode.exe.config
-D:\Users\George Manov\Desktop\SoftUni\C# 0\01 Introduction to programming\HWIntroToProgramming\10 ReformatCode\bin\Debug\10 ReformatCode.exe
-D:\Users\George Manov\Desktop\SoftUni\C# 0\01 Introduction to programming\HWIntroToProgramming\10 ReformatCode\bin\Debug\10 ReformatCode.pdb
-D:\Users\George Manov\Desktop\SoftUni\C# 0\01 Introduction to programming\HWIntroToProgramming\10 ReformatCode\obj\Debug\10 ReformatCode.exe
-D:\Users\George Manov\Desktop\SoftUni\C# 0\01 Introduction to programming\HWIntroToProgramming\10 ReformatCode\obj\Debug\10 ReformatCode.pdb

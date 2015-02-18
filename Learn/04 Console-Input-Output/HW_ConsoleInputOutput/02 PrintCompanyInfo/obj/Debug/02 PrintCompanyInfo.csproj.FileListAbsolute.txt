@@ -1,6 +1,0 @@
-D:\Users\George Manov\Desktop\SoftUni\C# 0\04 Console-Input-Output\HW_ConsoleInputOutput\02 PrintCompanyInfo\bin\Debug\02 PrintCompanyInfo.exe.config
-D:\Users\George Manov\Desktop\SoftUni\C# 0\04 Console-Input-Output\HW_ConsoleInputOutput\02 PrintCompanyInfo\bin\Debug\02 PrintCompanyInfo.exe
-D:\Users\George Manov\Desktop\SoftUni\C# 0\04 Console-Input-Output\HW_ConsoleInputOutput\02 PrintCompanyInfo\bin\Debug\02 PrintCompanyInfo.pdb
-D:\Users\George Manov\Desktop\SoftUni\C# 0\04 Console-Input-Output\HW_ConsoleInputOutput\02 PrintCompanyInfo\obj\Debug\02 PrintCompanyInfo.exe
-D:\Users\George Manov\Desktop\SoftUni\C# 0\04 Console-Input-Output\HW_ConsoleInputOutput\02 PrintCompanyInfo\obj\Debug\02 PrintCompanyInfo.pdb
-D:\Users\George Manov\Desktop\SoftUni\C# 0\04 Console-Input-Output\HW_ConsoleInputOutput\02 PrintCompanyInfo\obj\Debug\02 PrintCompanyInfo.csprojResolveAssemblyReference.cache

@@ -1,5 +1,0 @@
-D:\Users\George Manov\Desktop\SoftUni\C# 0\03 Operators-Expressions-and-Statements\HW_Operators_Expressions_and_Statements\14 ModifyBitAtGivenPosition\bin\Debug\14 ModifyBitAtGivenPosition.exe.config
-D:\Users\George Manov\Desktop\SoftUni\C# 0\03 Operators-Expressions-and-Statements\HW_Operators_Expressions_and_Statements\14 ModifyBitAtGivenPosition\bin\Debug\14 ModifyBitAtGivenPosition.exe
-D:\Users\George Manov\Desktop\SoftUni\C# 0\03 Operators-Expressions-and-Statements\HW_Operators_Expressions_and_Statements\14 ModifyBitAtGivenPosition\bin\Debug\14 ModifyBitAtGivenPosition.pdb
-D:\Users\George Manov\Desktop\SoftUni\C# 0\03 Operators-Expressions-and-Statements\HW_Operators_Expressions_and_Statements\14 ModifyBitAtGivenPosition\obj\Debug\14 ModifyBitAtGivenPosition.exe
-D:\Users\George Manov\Desktop\SoftUni\C# 0\03 Operators-Expressions-and-Statements\HW_Operators_Expressions_and_Statements\14 ModifyBitAtGivenPosition\obj\Debug\14 ModifyBitAtGivenPosition.pdb

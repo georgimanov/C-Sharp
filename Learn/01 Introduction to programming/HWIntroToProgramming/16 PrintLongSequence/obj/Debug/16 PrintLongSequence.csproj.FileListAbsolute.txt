@@ -1,5 +1,0 @@
-D:\Users\George Manov\Desktop\SoftUni\C# 0\01 Introduction to programming\HWIntroToProgramming\16 PrintLongSequence\bin\Debug\16 PrintLongSequence.exe.config
-D:\Users\George Manov\Desktop\SoftUni\C# 0\01 Introduction to programming\HWIntroToProgramming\16 PrintLongSequence\bin\Debug\16 PrintLongSequence.exe
-D:\Users\George Manov\Desktop\SoftUni\C# 0\01 Introduction to programming\HWIntroToProgramming\16 PrintLongSequence\bin\Debug\16 PrintLongSequence.pdb
-D:\Users\George Manov\Desktop\SoftUni\C# 0\01 Introduction to programming\HWIntroToProgramming\16 PrintLongSequence\obj\Debug\16 PrintLongSequence.exe
-D:\Users\George Manov\Desktop\SoftUni\C# 0\01 Introduction to programming\HWIntroToProgramming\16 PrintLongSequence\obj\Debug\16 PrintLongSequence.pdb

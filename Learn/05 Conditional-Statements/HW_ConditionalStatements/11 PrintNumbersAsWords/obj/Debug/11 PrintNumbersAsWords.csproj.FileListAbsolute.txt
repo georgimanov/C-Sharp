@@ -1,6 +1,0 @@
-D:\Users\George Manov\Desktop\SoftUni\C# 0\05 Conditional-Statements\HW_ConditionalStatements\11 PrintNumbersAsWords\bin\Debug\11 PrintNumbersAsWords.exe.config
-D:\Users\George Manov\Desktop\SoftUni\C# 0\05 Conditional-Statements\HW_ConditionalStatements\11 PrintNumbersAsWords\bin\Debug\11 PrintNumbersAsWords.exe
-D:\Users\George Manov\Desktop\SoftUni\C# 0\05 Conditional-Statements\HW_ConditionalStatements\11 PrintNumbersAsWords\bin\Debug\11 PrintNumbersAsWords.pdb
-D:\Users\George Manov\Desktop\SoftUni\C# 0\05 Conditional-Statements\HW_ConditionalStatements\11 PrintNumbersAsWords\obj\Debug\11 PrintNumbersAsWords.exe
-D:\Users\George Manov\Desktop\SoftUni\C# 0\05 Conditional-Statements\HW_ConditionalStatements\11 PrintNumbersAsWords\obj\Debug\11 PrintNumbersAsWords.pdb
-D:\Users\George Manov\Desktop\SoftUni\C# 0\05 Conditional-Statements\HW_ConditionalStatements\11 PrintNumbersAsWords\obj\Debug\11 PrintNumbersAsWords.csprojResolveAssemblyReference.cache

@@ -1,5 +1,0 @@
-D:\Users\George Manov\Desktop\EXAM\Exam_CSharp_00\Test\bin\Debug\Test.exe.config
-D:\Users\George Manov\Desktop\EXAM\Exam_CSharp_00\Test\bin\Debug\Test.exe
-D:\Users\George Manov\Desktop\EXAM\Exam_CSharp_00\Test\bin\Debug\Test.pdb
-D:\Users\George Manov\Desktop\EXAM\Exam_CSharp_00\Test\obj\Debug\Test.exe
-D:\Users\George Manov\Desktop\EXAM\Exam_CSharp_00\Test\obj\Debug\Test.pdb

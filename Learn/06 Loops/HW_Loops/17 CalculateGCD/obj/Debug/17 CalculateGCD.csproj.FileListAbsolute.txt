@@ -1,5 +1,0 @@
-D:\Users\George Manov\Desktop\SoftUni\C# 0\06 Loops\HW_Loops\17 CalculateGCD\bin\Debug\17 CalculateGCD.exe.config
-D:\Users\George Manov\Desktop\SoftUni\C# 0\06 Loops\HW_Loops\17 CalculateGCD\bin\Debug\17 CalculateGCD.exe
-D:\Users\George Manov\Desktop\SoftUni\C# 0\06 Loops\HW_Loops\17 CalculateGCD\bin\Debug\17 CalculateGCD.pdb
-D:\Users\George Manov\Desktop\SoftUni\C# 0\06 Loops\HW_Loops\17 CalculateGCD\obj\Debug\17 CalculateGCD.exe
-D:\Users\George Manov\Desktop\SoftUni\C# 0\06 Loops\HW_Loops\17 CalculateGCD\obj\Debug\17 CalculateGCD.pdb

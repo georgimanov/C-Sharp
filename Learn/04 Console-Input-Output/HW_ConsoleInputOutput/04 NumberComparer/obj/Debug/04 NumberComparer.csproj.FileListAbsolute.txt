@@ -1,6 +1,0 @@
-D:\Users\George Manov\Desktop\SoftUni\C# 0\04 Console-Input-Output\HW_ConsoleInputOutput\04 NumberComparer\bin\Debug\04 NumberComparer.exe.config
-D:\Users\George Manov\Desktop\SoftUni\C# 0\04 Console-Input-Output\HW_ConsoleInputOutput\04 NumberComparer\bin\Debug\04 NumberComparer.exe
-D:\Users\George Manov\Desktop\SoftUni\C# 0\04 Console-Input-Output\HW_ConsoleInputOutput\04 NumberComparer\bin\Debug\04 NumberComparer.pdb
-D:\Users\George Manov\Desktop\SoftUni\C# 0\04 Console-Input-Output\HW_ConsoleInputOutput\04 NumberComparer\obj\Debug\04 NumberComparer.csprojResolveAssemblyReference.cache
-D:\Users\George Manov\Desktop\SoftUni\C# 0\04 Console-Input-Output\HW_ConsoleInputOutput\04 NumberComparer\obj\Debug\04 NumberComparer.exe
-D:\Users\George Manov\Desktop\SoftUni\C# 0\04 Console-Input-Output\HW_ConsoleInputOutput\04 NumberComparer\obj\Debug\04 NumberComparer.pdb

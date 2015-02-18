@@ -1,6 +1,0 @@
-D:\Users\George Manov\Desktop\SoftUni\C# 0\04 Console-Input-Output\HW_ConsoleInputOutput\03 CirclePerimeterAndArea\bin\Debug\03 CirclePerimeterAndArea.exe.config
-D:\Users\George Manov\Desktop\SoftUni\C# 0\04 Console-Input-Output\HW_ConsoleInputOutput\03 CirclePerimeterAndArea\bin\Debug\03 CirclePerimeterAndArea.exe
-D:\Users\George Manov\Desktop\SoftUni\C# 0\04 Console-Input-Output\HW_ConsoleInputOutput\03 CirclePerimeterAndArea\bin\Debug\03 CirclePerimeterAndArea.pdb
-D:\Users\George Manov\Desktop\SoftUni\C# 0\04 Console-Input-Output\HW_ConsoleInputOutput\03 CirclePerimeterAndArea\obj\Debug\03 CirclePerimeterAndArea.exe
-D:\Users\George Manov\Desktop\SoftUni\C# 0\04 Console-Input-Output\HW_ConsoleInputOutput\03 CirclePerimeterAndArea\obj\Debug\03 CirclePerimeterAndArea.pdb
-D:\Users\George Manov\Desktop\SoftUni\C# 0\04 Console-Input-Output\HW_ConsoleInputOutput\03 CirclePerimeterAndArea\obj\Debug\03 CirclePerimeterAndArea.csprojResolveAssemblyReference.cache

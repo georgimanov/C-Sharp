@@ -1,6 +1,0 @@
-D:\Users\George Manov\Desktop\SoftUni\C# 0\02 Primitive Data Types\HW_PrimitiveDataTypes\03 ComparingFloats\bin\Debug\03 ComparingFloats.exe.config
-D:\Users\George Manov\Desktop\SoftUni\C# 0\02 Primitive Data Types\HW_PrimitiveDataTypes\03 ComparingFloats\bin\Debug\03 ComparingFloats.exe
-D:\Users\George Manov\Desktop\SoftUni\C# 0\02 Primitive Data Types\HW_PrimitiveDataTypes\03 ComparingFloats\bin\Debug\03 ComparingFloats.pdb
-D:\Users\George Manov\Desktop\SoftUni\C# 0\02 Primitive Data Types\HW_PrimitiveDataTypes\03 ComparingFloats\obj\Debug\03 ComparingFloats.csprojResolveAssemblyReference.cache
-D:\Users\George Manov\Desktop\SoftUni\C# 0\02 Primitive Data Types\HW_PrimitiveDataTypes\03 ComparingFloats\obj\Debug\03 ComparingFloats.exe
-D:\Users\George Manov\Desktop\SoftUni\C# 0\02 Primitive Data Types\HW_PrimitiveDataTypes\03 ComparingFloats\obj\Debug\03 ComparingFloats.pdb

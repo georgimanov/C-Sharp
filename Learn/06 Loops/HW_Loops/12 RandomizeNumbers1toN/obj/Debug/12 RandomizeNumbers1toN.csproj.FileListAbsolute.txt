@@ -1,6 +1,0 @@
-D:\Users\George Manov\Desktop\SoftUni\C# 0\06 Loops\HW_Loops\12 RandomizeNumbers1toN\bin\Debug\12 RandomizeNumbers1toN.exe.config
-D:\Users\George Manov\Desktop\SoftUni\C# 0\06 Loops\HW_Loops\12 RandomizeNumbers1toN\bin\Debug\12 RandomizeNumbers1toN.exe
-D:\Users\George Manov\Desktop\SoftUni\C# 0\06 Loops\HW_Loops\12 RandomizeNumbers1toN\bin\Debug\12 RandomizeNumbers1toN.pdb
-D:\Users\George Manov\Desktop\SoftUni\C# 0\06 Loops\HW_Loops\12 RandomizeNumbers1toN\obj\Debug\12 RandomizeNumbers1toN.exe
-D:\Users\George Manov\Desktop\SoftUni\C# 0\06 Loops\HW_Loops\12 RandomizeNumbers1toN\obj\Debug\12 RandomizeNumbers1toN.pdb
-D:\Users\George Manov\Desktop\SoftUni\C# 0\06 Loops\HW_Loops\12 RandomizeNumbers1toN\obj\Debug\12 RandomizeNumbers1toN.csprojResolveAssemblyReference.cache

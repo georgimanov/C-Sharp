@@ -1,6 +1,0 @@
-D:\Users\George Manov\Desktop\SoftUni\C# 0\04 Console-Input-Output\HW_ConsoleInputOutput\07 SplitString\bin\Debug\07 SplitString.exe.config
-D:\Users\George Manov\Desktop\SoftUni\C# 0\04 Console-Input-Output\HW_ConsoleInputOutput\07 SplitString\obj\Debug\07 SplitString.csprojResolveAssemblyReference.cache
-D:\Users\George Manov\Desktop\SoftUni\C# 0\04 Console-Input-Output\HW_ConsoleInputOutput\07 SplitString\bin\Debug\07 SplitString.exe
-D:\Users\George Manov\Desktop\SoftUni\C# 0\04 Console-Input-Output\HW_ConsoleInputOutput\07 SplitString\bin\Debug\07 SplitString.pdb
-D:\Users\George Manov\Desktop\SoftUni\C# 0\04 Console-Input-Output\HW_ConsoleInputOutput\07 SplitString\obj\Debug\07 SplitString.exe
-D:\Users\George Manov\Desktop\SoftUni\C# 0\04 Console-Input-Output\HW_ConsoleInputOutput\07 SplitString\obj\Debug\07 SplitString.pdb

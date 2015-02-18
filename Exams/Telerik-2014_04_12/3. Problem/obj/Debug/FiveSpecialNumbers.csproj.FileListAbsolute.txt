@@ -1,9 +1,0 @@
-D:\Users\George Manov\Desktop\EXAM\Exam_CSharp_00\3. Problem\bin\Debug\_3.Problem.exe.config
-D:\Users\George Manov\Desktop\EXAM\Exam_CSharp_00\3. Problem\bin\Debug\_3.Problem.exe
-D:\Users\George Manov\Desktop\EXAM\Exam_CSharp_00\3. Problem\bin\Debug\_3.Problem.pdb
-D:\Users\George Manov\Desktop\EXAM\Exam_CSharp_00\3. Problem\obj\Debug\_3.Problem.exe
-D:\Users\George Manov\Desktop\EXAM\Exam_CSharp_00\3. Problem\obj\Debug\_3.Problem.pdb
-D:\Users\George Manov\Desktop\EXAM\Exam_CSharp_00\3. Problem\obj\Debug\FiveSpecialNumbers.csprojResolveAssemblyReference.cache
-D:\Users\George Manov\Desktop\SoftUni\C# 0\EXAM_2014_04_12\Exam_CSharp_00\3. Problem\bin\Debug\_3.Problem.exe.config
-D:\Users\George Manov\Desktop\SoftUni\C# 0\EXAM_2014_04_12\Exam_CSharp_00\3. Problem\obj\Debug\_3.Problem.exe
-D:\Users\George Manov\Desktop\SoftUni\C# 0\EXAM_2014_04_12\Exam_CSharp_00\3. Problem\obj\Debug\_3.Problem.pdb

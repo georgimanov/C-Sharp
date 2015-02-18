@@ -1,5 +1,0 @@
-D:\Users\George Manov\Desktop\SoftUni\C# 0\01 Introduction to programming\HWIntroToProgramming\17 Debugger\bin\Debug\17 Debugger.exe.config
-D:\Users\George Manov\Desktop\SoftUni\C# 0\01 Introduction to programming\HWIntroToProgramming\17 Debugger\bin\Debug\17 Debugger.exe
-D:\Users\George Manov\Desktop\SoftUni\C# 0\01 Introduction to programming\HWIntroToProgramming\17 Debugger\bin\Debug\17 Debugger.pdb
-D:\Users\George Manov\Desktop\SoftUni\C# 0\01 Introduction to programming\HWIntroToProgramming\17 Debugger\obj\Debug\17 Debugger.exe
-D:\Users\George Manov\Desktop\SoftUni\C# 0\01 Introduction to programming\HWIntroToProgramming\17 Debugger\obj\Debug\17 Debugger.pdb

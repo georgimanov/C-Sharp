@@ -1,6 +1,0 @@
-D:\Users\George Manov\Desktop\SoftUni\C# 0\05 Conditional-Statements\HW_ConditionalStatements\01 GreaterAB\bin\Debug\01 GreaterAB.exe.config
-D:\Users\George Manov\Desktop\SoftUni\C# 0\05 Conditional-Statements\HW_ConditionalStatements\01 GreaterAB\bin\Debug\01 GreaterAB.exe
-D:\Users\George Manov\Desktop\SoftUni\C# 0\05 Conditional-Statements\HW_ConditionalStatements\01 GreaterAB\bin\Debug\01 GreaterAB.pdb
-D:\Users\George Manov\Desktop\SoftUni\C# 0\05 Conditional-Statements\HW_ConditionalStatements\01 GreaterAB\obj\Debug\01 GreaterAB.csprojResolveAssemblyReference.cache
-D:\Users\George Manov\Desktop\SoftUni\C# 0\05 Conditional-Statements\HW_ConditionalStatements\01 GreaterAB\obj\Debug\01 GreaterAB.exe
-D:\Users\George Manov\Desktop\SoftUni\C# 0\05 Conditional-Statements\HW_ConditionalStatements\01 GreaterAB\obj\Debug\01 GreaterAB.pdb

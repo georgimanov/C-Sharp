@@ -1,6 +1,0 @@
-D:\Users\George Manov\Desktop\SoftUni\C# 0\06 Loops\HW_Loops\01 PrintNumbers1toN\bin\Debug\01 PrintNumbers1toN.exe.config
-D:\Users\George Manov\Desktop\SoftUni\C# 0\06 Loops\HW_Loops\01 PrintNumbers1toN\bin\Debug\01 PrintNumbers1toN.exe
-D:\Users\George Manov\Desktop\SoftUni\C# 0\06 Loops\HW_Loops\01 PrintNumbers1toN\bin\Debug\01 PrintNumbers1toN.pdb
-D:\Users\George Manov\Desktop\SoftUni\C# 0\06 Loops\HW_Loops\01 PrintNumbers1toN\obj\Debug\01 PrintNumbers1toN.exe
-D:\Users\George Manov\Desktop\SoftUni\C# 0\06 Loops\HW_Loops\01 PrintNumbers1toN\obj\Debug\01 PrintNumbers1toN.pdb
-D:\Users\George Manov\Desktop\SoftUni\C# 0\06 Loops\HW_Loops\01 PrintNumbers1toN\obj\Debug\01 PrintNumbers1toN.csprojResolveAssemblyReference.cache

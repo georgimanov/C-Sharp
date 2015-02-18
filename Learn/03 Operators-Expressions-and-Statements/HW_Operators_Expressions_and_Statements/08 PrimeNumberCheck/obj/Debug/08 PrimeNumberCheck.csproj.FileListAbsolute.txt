@@ -1,6 +1,0 @@
-D:\Users\George Manov\Desktop\SoftUni\C# 0\03 Operators-Expressions-and-Statements\HW_Operators_Expressions_and_Statements\08 PrimeNumberCheck\bin\Debug\08 PrimeNumberCheck.exe.config
-D:\Users\George Manov\Desktop\SoftUni\C# 0\03 Operators-Expressions-and-Statements\HW_Operators_Expressions_and_Statements\08 PrimeNumberCheck\bin\Debug\08 PrimeNumberCheck.exe
-D:\Users\George Manov\Desktop\SoftUni\C# 0\03 Operators-Expressions-and-Statements\HW_Operators_Expressions_and_Statements\08 PrimeNumberCheck\bin\Debug\08 PrimeNumberCheck.pdb
-D:\Users\George Manov\Desktop\SoftUni\C# 0\03 Operators-Expressions-and-Statements\HW_Operators_Expressions_and_Statements\08 PrimeNumberCheck\obj\Debug\08 PrimeNumberCheck.exe
-D:\Users\George Manov\Desktop\SoftUni\C# 0\03 Operators-Expressions-and-Statements\HW_Operators_Expressions_and_Statements\08 PrimeNumberCheck\obj\Debug\08 PrimeNumberCheck.pdb
-D:\Users\George Manov\Desktop\SoftUni\C# 0\03 Operators-Expressions-and-Statements\HW_Operators_Expressions_and_Statements\08 PrimeNumberCheck\obj\Debug\08 PrimeNumberCheck.csprojResolveAssemblyReference.cache

@@ -1,5 +1,0 @@
-D:\Users\George Manov\Desktop\SoftUni\C# 0\02 Primitive Data Types\HW_PrimitiveDataTypes\11 EmployeeData\bin\Debug\11 EmployeeData.exe.config
-D:\Users\George Manov\Desktop\SoftUni\C# 0\02 Primitive Data Types\HW_PrimitiveDataTypes\11 EmployeeData\bin\Debug\11 EmployeeData.exe
-D:\Users\George Manov\Desktop\SoftUni\C# 0\02 Primitive Data Types\HW_PrimitiveDataTypes\11 EmployeeData\bin\Debug\11 EmployeeData.pdb
-D:\Users\George Manov\Desktop\SoftUni\C# 0\02 Primitive Data Types\HW_PrimitiveDataTypes\11 EmployeeData\obj\Debug\11 EmployeeData.exe
-D:\Users\George Manov\Desktop\SoftUni\C# 0\02 Primitive Data Types\HW_PrimitiveDataTypes\11 EmployeeData\obj\Debug\11 EmployeeData.pdb

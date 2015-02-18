@@ -1,5 +1,0 @@
-D:\Users\George Manov\Desktop\EXAM\Exam_CSharp_00\2. Problem\bin\Debug\_2.Problem.exe.config
-D:\Users\George Manov\Desktop\EXAM\Exam_CSharp_00\2. Problem\bin\Debug\_2.Problem.exe
-D:\Users\George Manov\Desktop\EXAM\Exam_CSharp_00\2. Problem\bin\Debug\_2.Problem.pdb
-D:\Users\George Manov\Desktop\EXAM\Exam_CSharp_00\2. Problem\obj\Debug\_2.Problem.exe
-D:\Users\George Manov\Desktop\EXAM\Exam_CSharp_00\2. Problem\obj\Debug\_2.Problem.pdb

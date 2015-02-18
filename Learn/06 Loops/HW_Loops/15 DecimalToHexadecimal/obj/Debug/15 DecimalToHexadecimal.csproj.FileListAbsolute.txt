@@ -1,1 +1,0 @@
-D:\Users\George Manov\Desktop\SoftUni\C# 0\06 Loops\HW_Loops\15 DecimalToHexadecimal\bin\Debug\15 DecimalToHexadecimal.exe.config

@@ -1,5 +1,0 @@
-D:\Users\George Manov\Desktop\SoftUni\C# 0\06 Loops\HW_Loops\10 OddAndEvenProduct\bin\Debug\10 OddAndEvenProduct.exe.config
-D:\Users\George Manov\Desktop\SoftUni\C# 0\06 Loops\HW_Loops\10 OddAndEvenProduct\bin\Debug\10 OddAndEvenProduct.exe
-D:\Users\George Manov\Desktop\SoftUni\C# 0\06 Loops\HW_Loops\10 OddAndEvenProduct\bin\Debug\10 OddAndEvenProduct.pdb
-D:\Users\George Manov\Desktop\SoftUni\C# 0\06 Loops\HW_Loops\10 OddAndEvenProduct\obj\Debug\10 OddAndEvenProduct.exe
-D:\Users\George Manov\Desktop\SoftUni\C# 0\06 Loops\HW_Loops\10 OddAndEvenProduct\obj\Debug\10 OddAndEvenProduct.pdb

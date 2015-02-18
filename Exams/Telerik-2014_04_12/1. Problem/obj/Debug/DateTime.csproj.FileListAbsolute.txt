@@ -1,2 +1,0 @@
-D:\Users\George Manov\Desktop\EXAM\Exam_CSharp_00\1. Problem\bin\Debug\`.exe.config
-D:\Users\George Manov\Desktop\SoftUni\C# 0\EXAM_2014_04_12\Exam_CSharp_00\1. Problem\bin\Debug\`.exe.config

@@ -1,7 +1,0 @@
-D:\Users\George Manov\Desktop\EXAM\Exam_CSharp_00\1. Problem\bin\Debug\_1.Problem.exe.config
-D:\Users\George Manov\Desktop\EXAM\Exam_CSharp_00\1. Problem\bin\Debug\_1.Problem.exe
-D:\Users\George Manov\Desktop\EXAM\Exam_CSharp_00\1. Problem\bin\Debug\_1.Problem.pdb
-D:\Users\George Manov\Desktop\EXAM\Exam_CSharp_00\1. Problem\obj\Debug\1. Problem.csprojResolveAssemblyReference.cache
-D:\Users\George Manov\Desktop\EXAM\Exam_CSharp_00\1. Problem\obj\Debug\_1.Problem.exe
-D:\Users\George Manov\Desktop\EXAM\Exam_CSharp_00\1. Problem\obj\Debug\_1.Problem.pdb
-D:\Users\George Manov\Desktop\EXAM\Exam_CSharp_00\1. Problem\bin\Debug\`.exe.config

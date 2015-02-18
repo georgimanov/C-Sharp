@@ -1,5 +1,0 @@
-D:\Users\George Manov\Desktop\SoftUni\C# 0\05 Conditional-Statements\HW_ConditionalStatements\09 UsersChoiceInput\bin\Debug\09 UsersChoiceInput.exe.config
-D:\Users\George Manov\Desktop\SoftUni\C# 0\05 Conditional-Statements\HW_ConditionalStatements\09 UsersChoiceInput\bin\Debug\09 UsersChoiceInput.exe
-D:\Users\George Manov\Desktop\SoftUni\C# 0\05 Conditional-Statements\HW_ConditionalStatements\09 UsersChoiceInput\bin\Debug\09 UsersChoiceInput.pdb
-D:\Users\George Manov\Desktop\SoftUni\C# 0\05 Conditional-Statements\HW_ConditionalStatements\09 UsersChoiceInput\obj\Debug\09 UsersChoiceInput.exe
-D:\Users\George Manov\Desktop\SoftUni\C# 0\05 Conditional-Statements\HW_ConditionalStatements\09 UsersChoiceInput\obj\Debug\09 UsersChoiceInput.pdb

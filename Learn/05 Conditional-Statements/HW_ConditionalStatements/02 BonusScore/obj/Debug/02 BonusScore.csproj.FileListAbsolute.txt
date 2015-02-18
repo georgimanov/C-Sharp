@@ -1,6 +1,0 @@
-D:\Users\George Manov\Desktop\SoftUni\C# 0\05 Conditional-Statements\HW_ConditionalStatements\02 BonusScore\bin\Debug\02 BonusScore.exe.config
-D:\Users\George Manov\Desktop\SoftUni\C# 0\05 Conditional-Statements\HW_ConditionalStatements\02 BonusScore\bin\Debug\02 BonusScore.exe
-D:\Users\George Manov\Desktop\SoftUni\C# 0\05 Conditional-Statements\HW_ConditionalStatements\02 BonusScore\bin\Debug\02 BonusScore.pdb
-D:\Users\George Manov\Desktop\SoftUni\C# 0\05 Conditional-Statements\HW_ConditionalStatements\02 BonusScore\obj\Debug\02 BonusScore.exe
-D:\Users\George Manov\Desktop\SoftUni\C# 0\05 Conditional-Statements\HW_ConditionalStatements\02 BonusScore\obj\Debug\02 BonusScore.pdb
-D:\Users\George Manov\Desktop\SoftUni\C# 0\05 Conditional-Statements\HW_ConditionalStatements\02 BonusScore\obj\Debug\02 BonusScore.csprojResolveAssemblyReference.cache

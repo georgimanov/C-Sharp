@@ -1,6 +1,0 @@
-D:\Users\George Manov\Desktop\SoftUni\C# 0\03 Operators-Expressions-and-Statements\HW_Operators_Expressions_and_Statements\07 PointInsideCircle\bin\Debug\07 PointInsideCircle.exe.config
-D:\Users\George Manov\Desktop\SoftUni\C# 0\03 Operators-Expressions-and-Statements\HW_Operators_Expressions_and_Statements\07 PointInsideCircle\obj\Debug\07 PointInsideCircle.csprojResolveAssemblyReference.cache
-D:\Users\George Manov\Desktop\SoftUni\C# 0\03 Operators-Expressions-and-Statements\HW_Operators_Expressions_and_Statements\07 PointInsideCircle\bin\Debug\07 PointInsideCircle.exe
-D:\Users\George Manov\Desktop\SoftUni\C# 0\03 Operators-Expressions-and-Statements\HW_Operators_Expressions_and_Statements\07 PointInsideCircle\bin\Debug\07 PointInsideCircle.pdb
-D:\Users\George Manov\Desktop\SoftUni\C# 0\03 Operators-Expressions-and-Statements\HW_Operators_Expressions_and_Statements\07 PointInsideCircle\obj\Debug\07 PointInsideCircle.exe
-D:\Users\George Manov\Desktop\SoftUni\C# 0\03 Operators-Expressions-and-Statements\HW_Operators_Expressions_and_Statements\07 PointInsideCircle\obj\Debug\07 PointInsideCircle.pdb
