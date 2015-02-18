@@ -1,0 +1,6 @@
+D:\Telerik\2.0\C#-2\Arrays\Arrays\09.FrequentNumber\bin\Debug\09.FrequentNumber.exe.config
+D:\Telerik\2.0\C#-2\Arrays\Arrays\09.FrequentNumber\bin\Debug\09.FrequentNumber.exe
+D:\Telerik\2.0\C#-2\Arrays\Arrays\09.FrequentNumber\bin\Debug\09.FrequentNumber.pdb
+D:\Telerik\2.0\C#-2\Arrays\Arrays\09.FrequentNumber\obj\Debug\09.FrequentNumber.csprojResolveAssemblyReference.cache
+D:\Telerik\2.0\C#-2\Arrays\Arrays\09.FrequentNumber\obj\Debug\09.FrequentNumber.exe
+D:\Telerik\2.0\C#-2\Arrays\Arrays\09.FrequentNumber\obj\Debug\09.FrequentNumber.pdb

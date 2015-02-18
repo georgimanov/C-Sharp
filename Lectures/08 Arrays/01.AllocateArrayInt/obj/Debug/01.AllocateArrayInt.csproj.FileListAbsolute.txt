@@ -1,0 +1,5 @@
+D:\Telerik\2.0\C#-2\Arrays\Arrays\01.AllocateArrayInt\bin\Debug\01.AllocateArrayInt.exe.config
+D:\Telerik\2.0\C#-2\Arrays\Arrays\01.AllocateArrayInt\bin\Debug\01.AllocateArrayInt.exe
+D:\Telerik\2.0\C#-2\Arrays\Arrays\01.AllocateArrayInt\bin\Debug\01.AllocateArrayInt.pdb
+D:\Telerik\2.0\C#-2\Arrays\Arrays\01.AllocateArrayInt\obj\Debug\01.AllocateArrayInt.exe
+D:\Telerik\2.0\C#-2\Arrays\Arrays\01.AllocateArrayInt\obj\Debug\01.AllocateArrayInt.pdb

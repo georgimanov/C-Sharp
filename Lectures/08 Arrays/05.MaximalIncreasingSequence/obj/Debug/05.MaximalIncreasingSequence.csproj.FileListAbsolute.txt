@@ -1,0 +1,6 @@
+D:\Telerik\2.0\C#-2\Arrays\Arrays\05.MaximalIncreasingSequence\bin\Debug\05.MaximalIncreasingSequence.exe.config
+D:\Telerik\2.0\C#-2\Arrays\Arrays\05.MaximalIncreasingSequence\bin\Debug\05.MaximalIncreasingSequence.exe
+D:\Telerik\2.0\C#-2\Arrays\Arrays\05.MaximalIncreasingSequence\bin\Debug\05.MaximalIncreasingSequence.pdb
+D:\Telerik\2.0\C#-2\Arrays\Arrays\05.MaximalIncreasingSequence\obj\Debug\05.MaximalIncreasingSequence.csprojResolveAssemblyReference.cache
+D:\Telerik\2.0\C#-2\Arrays\Arrays\05.MaximalIncreasingSequence\obj\Debug\05.MaximalIncreasingSequence.exe
+D:\Telerik\2.0\C#-2\Arrays\Arrays\05.MaximalIncreasingSequence\obj\Debug\05.MaximalIncreasingSequence.pdb

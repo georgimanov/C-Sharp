@@ -1,0 +1,5 @@
+D:\Telerik\2.0\C#-2\Arrays\Arrays\04.MaximalSequence\bin\Debug\04.MaximalSequence.exe.config
+D:\Telerik\2.0\C#-2\Arrays\Arrays\04.MaximalSequence\bin\Debug\04.MaximalSequence.exe
+D:\Telerik\2.0\C#-2\Arrays\Arrays\04.MaximalSequence\bin\Debug\04.MaximalSequence.pdb
+D:\Telerik\2.0\C#-2\Arrays\Arrays\04.MaximalSequence\obj\Debug\04.MaximalSequence.exe
+D:\Telerik\2.0\C#-2\Arrays\Arrays\04.MaximalSequence\obj\Debug\04.MaximalSequence.pdb
