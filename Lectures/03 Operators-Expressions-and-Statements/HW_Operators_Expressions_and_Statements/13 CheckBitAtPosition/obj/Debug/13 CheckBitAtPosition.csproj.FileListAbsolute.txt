@@ -1,0 +1,5 @@
+D:\Users\George Manov\Desktop\SoftUni\C# 0\03 Operators-Expressions-and-Statements\HW_Operators_Expressions_and_Statements\13 CheckBitAtPosition\bin\Debug\13 CheckBitAtPosition.exe.config
+D:\Users\George Manov\Desktop\SoftUni\C# 0\03 Operators-Expressions-and-Statements\HW_Operators_Expressions_and_Statements\13 CheckBitAtPosition\bin\Debug\13 CheckBitAtPosition.exe
+D:\Users\George Manov\Desktop\SoftUni\C# 0\03 Operators-Expressions-and-Statements\HW_Operators_Expressions_and_Statements\13 CheckBitAtPosition\bin\Debug\13 CheckBitAtPosition.pdb
+D:\Users\George Manov\Desktop\SoftUni\C# 0\03 Operators-Expressions-and-Statements\HW_Operators_Expressions_and_Statements\13 CheckBitAtPosition\obj\Debug\13 CheckBitAtPosition.exe
+D:\Users\George Manov\Desktop\SoftUni\C# 0\03 Operators-Expressions-and-Statements\HW_Operators_Expressions_and_Statements\13 CheckBitAtPosition\obj\Debug\13 CheckBitAtPosition.pdb

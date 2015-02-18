@@ -1,0 +1,6 @@
+D:\Users\George Manov\Desktop\SoftUni\C# 0\07 CSharp Advanced\HW_CSharp_Advanced\02 PrimeChecker\bin\Debug\02 PrimeChecker.exe.config
+D:\Users\George Manov\Desktop\SoftUni\C# 0\07 CSharp Advanced\HW_CSharp_Advanced\02 PrimeChecker\bin\Debug\02 PrimeChecker.exe
+D:\Users\George Manov\Desktop\SoftUni\C# 0\07 CSharp Advanced\HW_CSharp_Advanced\02 PrimeChecker\bin\Debug\02 PrimeChecker.pdb
+D:\Users\George Manov\Desktop\SoftUni\C# 0\07 CSharp Advanced\HW_CSharp_Advanced\02 PrimeChecker\obj\Debug\02 PrimeChecker.exe
+D:\Users\George Manov\Desktop\SoftUni\C# 0\07 CSharp Advanced\HW_CSharp_Advanced\02 PrimeChecker\obj\Debug\02 PrimeChecker.pdb
+D:\Users\George Manov\Desktop\SoftUni\C# 0\07 CSharp Advanced\HW_CSharp_Advanced\02 PrimeChecker\obj\Debug\02 PrimeChecker.csprojResolveAssemblyReference.cache

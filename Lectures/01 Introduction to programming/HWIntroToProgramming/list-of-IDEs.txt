@@ -1,0 +1,100 @@
+Development Environments
+Perform a research (e.g. in Google or Wikipedia) and provide a short list with popular development environments (IDEs) like Visual Studio. Write in a text file called “list-of-IDEs.txt” at least five IDEs along with 2-3 sentences about each of them. Use English.
+
+
+
+A> Multi-Language IDEs
+
+Eclipse
+Languages: C, C++, Python, Perl, PHP, Java, Ruby and more
+Eclipse is the free and open-source editor upon which many development frameworks are based. It's one of the granddaddies in its field and comes highly recommended by many a professional developer. Eclipse began as a Java development environment and has greatly expanded through a system of lightweight plugins.
+
+NetBeans
+Languages: Java, JavaScript, PHP, Python, Ruby, C, C++ and more
+NetBeans is neck-and-neck with Eclipse as the most-recommended IDE in this category. It's free and open-source, supports tons of languages with more plugins coming all the time, and is incredibly simple to install and use, even for a beginner.
+
+Komodo
+Languages: Perl, Python, Tcl, PHP, Ruby, Javascript and more
+This enterprise-level tool might be best for the pro developer because of its higher price point. For beginners, you might also want to check out the Komodo-based, FOSS editor Open Komodo or Komodo's FOSS version, Komodo Edit.
+
+Aptana
+Languages: HTML, CSS, JavaScript, AJAX and others via plugins
+Aptana is a popular choice for web app development. Aptana Studio 2 can be used as a stand-alone IDE or can be plugged into Eclipse. Aptana comes with Firebug support built-in, and its developer community seems to release plugins for other languages as needed.
+
+BlackAdder
+Languages: Python and Ruby
+This IDE is designed for Python and Ruby devs creating apps for Windows and Linux. It includes a text editor as well as a GUI designer that uses pyQT and QT Designer. The makers of BlackAdder allow you to test drive the IDE in a limited demo version.
+
+Geany
+Languages: C, Java, PHP, HTML, Python, Perl, Pascal and a boatload more
+Geany bills itself as a "small and fast" IDE, but it is by no means a lightweight. Its list of supported languages is about a block long; it's highly customizable; and it features a robust set of plugins which is open for hacking.
+
+
+B> IDEs for Mobile Development
+
+PhoneGap  works with Xcode and Eclipse for iPhone and Android, respectively. 
+
+Appcelerator's Titanium Mobile - it lets you write in any language/IDE you choose, then translates your code to Objective-C or Java. 
+
+
+C> Web-Based IDEs
+
+CodeRun
+Languages: ASP.NET, PHP, Ajax, C#, JavaScript, CSS, HTML and more
+This broswer-based IDE works in Chrome, Firefox, Safari and even good old Internet Explorer. Like the more robust multi-language IDEs, CodeRun supports Visual Studio projects and .NET languages. Best of all, your code is sharable via hyperlinks; it's even got built-in social sharing tools, should you want to tweet your code.
+
+ShiftEdit
+Languages: PHP, HTML, CSS and JavaScript
+ShiftEdit brings revision history and code snippets to the browser. Any files you access will stored until next time you log in. This IDE's text editor is based on Mozilla's Bespin (mentioned below).
+
+
+D> IDEs for Microsoft/.NET/C# and Apple/iPhone/Mac Devs
+
+Visual Studio
+Languages: Visual C++, VB.NET, C#, F# and others
+Visual Studio is Microsoft's IDE. Visual Basic has some support for non-Microsoft languages such as Python and Ruby, but you'll have to install those services yourself.
+
+Xcode
+Languages: Objective-C, Objective-C 2, Cocoa and Cocoa Touch APIs
+This IDE is just for creating iOS and Mac apps. If you're thinking along Apple-y lines and want to get into iPhone or iPad development, Xcode might be your first stop. This IDE includes an iPhone simulator and GUI builder, too.
+
+Monodevelop
+Languages: C/C++, Visual Basic, C# and other .NET languages
+Monodevelop is a good option if you're working in a .NET languages and don't want (or need) to fork over the $550 for Visual Studio. This free-as-in-beer IDE also allows you to port your apps to Linux while maintaining a single codebase.
+
+Espresso
+Languages: HTML, CSS, XML, JavaScript and PHP
+Espresso, a tool for Mac web devs, comes from the makers of CSSEdit. Its supported languages and other features are extensible through plugins known as "Sugars."
+
+Coda
+Languages: PHP, JavaScript, CSS, HTML, AppleScript and Cocoa API
+Coda bills itself as "one-window development" for the Mac user, and its a favorite of many developers on this platform. It's a full-featured IDE, but one of its most interesting features is live collaboration with other users.
+
+E> IDEs for Specific Languages
+
+C/C++
+
+C/C++ languages are some of the most widely used in the world of computer programming. Almost every multi-language IDE will support C/C++, but here are some dedicated IDEs just for C programmers.
+Bloodshed Dev-C++; Code::Blocks; CodeLite; C-Free
+
+Java
+Java IDEs.
+Jikes
+Jcreator
+IntelliJ IDEA
+
+Python
+Idle
+PyCharm
+Pida
+Wing
+Pyscripter
+
+
+PHP
+PHP powers some of the most ubiquitous web apps around today, from WordPress to Facebook. Many of the free multi-language IDEs also support PHP development. 
+PHPStorm; PhpED Zend; PHP Designer;
+
+Ruby/Rails
+A relatively young language. Used from consumer-facing apps likeTwitter to dev-centric sites such as GitHub. I
+RubyMine; Redcar; RadRails

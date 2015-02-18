@@ -1,0 +1,6 @@
+D:\Users\George Manov\Desktop\SoftUni\C# 0\02 Primitive Data Types\HW_PrimitiveDataTypes\PrimitiveDataTypes\bin\Debug\PrimitiveDataTypes.exe.config
+D:\Users\George Manov\Desktop\SoftUni\C# 0\02 Primitive Data Types\HW_PrimitiveDataTypes\PrimitiveDataTypes\bin\Debug\PrimitiveDataTypes.exe
+D:\Users\George Manov\Desktop\SoftUni\C# 0\02 Primitive Data Types\HW_PrimitiveDataTypes\PrimitiveDataTypes\bin\Debug\PrimitiveDataTypes.pdb
+D:\Users\George Manov\Desktop\SoftUni\C# 0\02 Primitive Data Types\HW_PrimitiveDataTypes\PrimitiveDataTypes\obj\Debug\01 DeclareVariables.csprojResolveAssemblyReference.cache
+D:\Users\George Manov\Desktop\SoftUni\C# 0\02 Primitive Data Types\HW_PrimitiveDataTypes\PrimitiveDataTypes\obj\Debug\PrimitiveDataTypes.exe
+D:\Users\George Manov\Desktop\SoftUni\C# 0\02 Primitive Data Types\HW_PrimitiveDataTypes\PrimitiveDataTypes\obj\Debug\PrimitiveDataTypes.pdb

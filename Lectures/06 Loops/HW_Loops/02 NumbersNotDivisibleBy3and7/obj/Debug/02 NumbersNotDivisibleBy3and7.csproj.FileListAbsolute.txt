@@ -1,0 +1,5 @@
+D:\Users\George Manov\Desktop\SoftUni\C# 0\06 Loops\HW_Loops\02 NumbersNotDivisibleBy3and7\bin\Debug\02 NumbersNotDivisibleBy3and7.exe.config
+D:\Users\George Manov\Desktop\SoftUni\C# 0\06 Loops\HW_Loops\02 NumbersNotDivisibleBy3and7\bin\Debug\02 NumbersNotDivisibleBy3and7.exe
+D:\Users\George Manov\Desktop\SoftUni\C# 0\06 Loops\HW_Loops\02 NumbersNotDivisibleBy3and7\bin\Debug\02 NumbersNotDivisibleBy3and7.pdb
+D:\Users\George Manov\Desktop\SoftUni\C# 0\06 Loops\HW_Loops\02 NumbersNotDivisibleBy3and7\obj\Debug\02 NumbersNotDivisibleBy3and7.exe
+D:\Users\George Manov\Desktop\SoftUni\C# 0\06 Loops\HW_Loops\02 NumbersNotDivisibleBy3and7\obj\Debug\02 NumbersNotDivisibleBy3and7.pdb

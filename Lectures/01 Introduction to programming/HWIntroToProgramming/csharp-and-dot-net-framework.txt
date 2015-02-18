@@ -1,0 +1,9 @@
+C# and .NET Differences
+Describe the difference between C# and .NET Framework in 2-3 sentences. Write your description in a text file called “csharp-and-dot-net-framework.txt”. Use English.
+
+C# is a modern, general-purpose, object-oriented, high-level programming language. Its syntax is similar to that of C and C++. 
+
+C# programs run on the .NET Framework, an integral component of Windows that includes a virtual execution system called the common language runtime (CLR) and a unified set of class libraries. The CLR is the commercial implementation by Microsoft of the common language infrastructure (CLI), an international standard that is the basis for creating execution and development environments in which languages and libraries work together seamlessly.
+
+
+

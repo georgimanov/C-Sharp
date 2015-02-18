@@ -1,0 +1,45 @@
+Programming Languages
+
+Perform a research (e.g. in Google or Wikipedia) and provide a short list with information about the most popular programming languages. How similar are they to C#? How do they differ from C#? Write in a text file called “programming-languages.txt” at least five languages along with 2-3 sentences about each of them. Use English.
+
+
+Performed search - via Google.
+
+Result:
+
+The most popular program languages as per www.tiobe.com are as following:
+1. C
+2. Java
+3. Obejctive-C
+4. C++
+5. C#
+
+As per the website mashable.com the fisrt 5 are the same only with a different order (C# is on 4th position).
+
+Below, please find short information for the most popular programming languages with their similarities and differences:
+
+Java
+
+What it is: Java is a class-based, object-oriented programming language developed by Sun Microsystems in the 1990s. It's one of the most in-demand programming languages, a standard for enterprise software, web-based content, games and mobile apps, as well as the Android operating system. Java is designed to work across multiple software platforms, meaning a program written on Mac OS X, for example, could also run on Windows.
+
+
+C Language
+
+What it is: A general-purpose, imperative programming language developed in the early '70s, C is the oldest and most widely used language, providing the building blocks for other popular languages, such as C#, Java, JavaScript and Python. C is mostly used for implementing operating systems and embedded applications.
+
+Because it provides the foundation for many other languages, it is advisable to learn C (and C++) before moving on to others.
+
+
+C++
+What it is: C++ is an intermediate-level language with object-oriented programming features, originally designed to enhance the C language. C++ powers major software like Firefox, Winamp and Adobe programs. It's used to develop systems software, application software, high-performance server and client applications and video games.
+
+
+C#
+What it is: Pronounced "C-sharp," C# is a multi-paradigm language developed by Microsoft as part of its .NET initiative. Combining principles from C and C++, C# is a general-purpose language used to develop software for Microsoft and Windows platforms.
+
+
+Objective-C
+
+What it is: Objective-C is a general-purpose, object-oriented programming language used by the Apple operating system. It powers Apple's OS X and iOS, as well as its APIs, and can be used to create iPhone apps, which has generated a huge demand for this once-outmoded programming language.
+
+Where to learn it: Udemy, Lynda.com, Mac Developer Library, Cocoa Dev Central, Mobile Tuts+.

@@ -1,0 +1,6 @@
+D:\Users\George Manov\Desktop\SoftUni\C# 0\06 Loops\HW_Loops\04 PrintADeckOf52Cards\bin\Debug\04 PrintADeckOf52Cards.exe.config
+D:\Users\George Manov\Desktop\SoftUni\C# 0\06 Loops\HW_Loops\04 PrintADeckOf52Cards\bin\Debug\04 PrintADeckOf52Cards.exe
+D:\Users\George Manov\Desktop\SoftUni\C# 0\06 Loops\HW_Loops\04 PrintADeckOf52Cards\bin\Debug\04 PrintADeckOf52Cards.pdb
+D:\Users\George Manov\Desktop\SoftUni\C# 0\06 Loops\HW_Loops\04 PrintADeckOf52Cards\obj\Debug\04 PrintADeckOf52Cards.exe
+D:\Users\George Manov\Desktop\SoftUni\C# 0\06 Loops\HW_Loops\04 PrintADeckOf52Cards\obj\Debug\04 PrintADeckOf52Cards.pdb
+D:\Users\George Manov\Desktop\SoftUni\C# 0\06 Loops\HW_Loops\04 PrintADeckOf52Cards\obj\Debug\04 PrintADeckOf52Cards.csprojResolveAssemblyReference.cache

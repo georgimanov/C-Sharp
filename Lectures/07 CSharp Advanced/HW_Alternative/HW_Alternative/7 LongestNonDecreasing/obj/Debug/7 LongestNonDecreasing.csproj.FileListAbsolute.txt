@@ -1,0 +1,1 @@
+D:\Users\George Manov\Desktop\SoftUni\C# 0\07 CSharp Advanced\HW_Alternative\HW_Alternative\7 LongestNonDecreasing\bin\Debug\7 LongestNonDecreasing.exe.config

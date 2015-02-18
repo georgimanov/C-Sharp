@@ -1,0 +1,5 @@
+D:\Users\George Manov\Desktop\SoftUni\C# 0\01 Introduction to programming\HWIntroToProgramming\08 SquareRoot\bin\Debug\08 SquareRoot.exe.config
+D:\Users\George Manov\Desktop\SoftUni\C# 0\01 Introduction to programming\HWIntroToProgramming\08 SquareRoot\bin\Debug\08 SquareRoot.exe
+D:\Users\George Manov\Desktop\SoftUni\C# 0\01 Introduction to programming\HWIntroToProgramming\08 SquareRoot\bin\Debug\08 SquareRoot.pdb
+D:\Users\George Manov\Desktop\SoftUni\C# 0\01 Introduction to programming\HWIntroToProgramming\08 SquareRoot\obj\Debug\08 SquareRoot.exe
+D:\Users\George Manov\Desktop\SoftUni\C# 0\01 Introduction to programming\HWIntroToProgramming\08 SquareRoot\obj\Debug\08 SquareRoot.pdb

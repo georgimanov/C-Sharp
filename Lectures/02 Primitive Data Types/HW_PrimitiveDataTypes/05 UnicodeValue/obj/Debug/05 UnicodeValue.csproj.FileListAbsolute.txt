@@ -1,0 +1,5 @@
+D:\Users\George Manov\Desktop\SoftUni\C# 0\02 Primitive Data Types\HW_PrimitiveDataTypes\05 UnicodeValue\bin\Debug\05 UnicodeValue.exe.config
+D:\Users\George Manov\Desktop\SoftUni\C# 0\02 Primitive Data Types\HW_PrimitiveDataTypes\05 UnicodeValue\bin\Debug\05 UnicodeValue.exe
+D:\Users\George Manov\Desktop\SoftUni\C# 0\02 Primitive Data Types\HW_PrimitiveDataTypes\05 UnicodeValue\bin\Debug\05 UnicodeValue.pdb
+D:\Users\George Manov\Desktop\SoftUni\C# 0\02 Primitive Data Types\HW_PrimitiveDataTypes\05 UnicodeValue\obj\Debug\05 UnicodeValue.exe
+D:\Users\George Manov\Desktop\SoftUni\C# 0\02 Primitive Data Types\HW_PrimitiveDataTypes\05 UnicodeValue\obj\Debug\05 UnicodeValue.pdb
