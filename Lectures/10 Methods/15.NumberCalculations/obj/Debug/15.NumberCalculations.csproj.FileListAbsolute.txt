@@ -1,0 +1,5 @@
+D:\Telerik\2.0\C#-2\Methods\15.NumberCalculations\bin\Debug\15.NumberCalculations.exe.config
+D:\Telerik\2.0\C#-2\Methods\15.NumberCalculations\bin\Debug\15.NumberCalculations.exe
+D:\Telerik\2.0\C#-2\Methods\15.NumberCalculations\bin\Debug\15.NumberCalculations.pdb
+D:\Telerik\2.0\C#-2\Methods\15.NumberCalculations\obj\Debug\15.NumberCalculations.exe
+D:\Telerik\2.0\C#-2\Methods\15.NumberCalculations\obj\Debug\15.NumberCalculations.pdb

@@ -1,0 +1,5 @@
+D:\Telerik\2.0\C#-2\Methods\02.GetLargest\bin\Debug\02.GetLargest.exe.config
+D:\Telerik\2.0\C#-2\Methods\02.GetLargest\bin\Debug\02.GetLargest.exe
+D:\Telerik\2.0\C#-2\Methods\02.GetLargest\bin\Debug\02.GetLargest.pdb
+D:\Telerik\2.0\C#-2\Methods\02.GetLargest\obj\Debug\02.GetLargest.exe
+D:\Telerik\2.0\C#-2\Methods\02.GetLargest\obj\Debug\02.GetLargest.pdb

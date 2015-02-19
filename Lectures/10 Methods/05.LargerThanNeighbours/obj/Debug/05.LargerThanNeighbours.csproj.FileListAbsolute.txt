@@ -1,0 +1,5 @@
+D:\Telerik\2.0\C#-2\Methods\05.LargerThanNeighbours\bin\Debug\05.LargerThanNeighbours.exe.config
+D:\Telerik\2.0\C#-2\Methods\05.LargerThanNeighbours\bin\Debug\05.LargerThanNeighbours.exe
+D:\Telerik\2.0\C#-2\Methods\05.LargerThanNeighbours\bin\Debug\05.LargerThanNeighbours.pdb
+D:\Telerik\2.0\C#-2\Methods\05.LargerThanNeighbours\obj\Debug\05.LargerThanNeighbours.exe
+D:\Telerik\2.0\C#-2\Methods\05.LargerThanNeighbours\obj\Debug\05.LargerThanNeighbours.pdb

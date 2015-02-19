@@ -1,0 +1,5 @@
+D:\Telerik\2.0\C#-2\Methods\10.NFactorial\bin\Debug\10.NFactorial.exe.config
+D:\Telerik\2.0\C#-2\Methods\10.NFactorial\bin\Debug\10.NFactorial.exe
+D:\Telerik\2.0\C#-2\Methods\10.NFactorial\bin\Debug\10.NFactorial.pdb
+D:\Telerik\2.0\C#-2\Methods\10.NFactorial\obj\Debug\10.NFactorial.exe
+D:\Telerik\2.0\C#-2\Methods\10.NFactorial\obj\Debug\10.NFactorial.pdb

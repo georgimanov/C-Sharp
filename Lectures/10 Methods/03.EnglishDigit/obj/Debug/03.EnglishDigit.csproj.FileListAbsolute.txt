@@ -1,0 +1,6 @@
+D:\Telerik\2.0\C#-2\Methods\03.EnglishDigit\bin\Debug\03.EnglishDigit.exe.config
+D:\Telerik\2.0\C#-2\Methods\03.EnglishDigit\bin\Debug\03.EnglishDigit.exe
+D:\Telerik\2.0\C#-2\Methods\03.EnglishDigit\bin\Debug\03.EnglishDigit.pdb
+D:\Telerik\2.0\C#-2\Methods\03.EnglishDigit\obj\Debug\03.EnglishDigit.exe
+D:\Telerik\2.0\C#-2\Methods\03.EnglishDigit\obj\Debug\03.EnglishDigit.pdb
+D:\Telerik\2.0\C#-2\Methods\03.EnglishDigit\obj\Debug\03.EnglishDigit.csprojResolveAssemblyReference.cache

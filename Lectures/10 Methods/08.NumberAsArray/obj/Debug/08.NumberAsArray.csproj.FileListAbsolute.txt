@@ -1,0 +1,5 @@
+D:\Telerik\2.0\C#-2\Methods\08.NumberAsArray\bin\Debug\08.NumberAsArray.exe.config
+D:\Telerik\2.0\C#-2\Methods\08.NumberAsArray\bin\Debug\08.NumberAsArray.exe
+D:\Telerik\2.0\C#-2\Methods\08.NumberAsArray\bin\Debug\08.NumberAsArray.pdb
+D:\Telerik\2.0\C#-2\Methods\08.NumberAsArray\obj\Debug\08.NumberAsArray.exe
+D:\Telerik\2.0\C#-2\Methods\08.NumberAsArray\obj\Debug\08.NumberAsArray.pdb

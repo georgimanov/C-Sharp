@@ -1,0 +1,5 @@
+D:\Telerik\2.0\C#-2\Methods\12.SubtractingPolynomials\bin\Debug\12.SubtractingPolynomials.exe.config
+D:\Telerik\2.0\C#-2\Methods\12.SubtractingPolynomials\bin\Debug\12.SubtractingPolynomials.exe
+D:\Telerik\2.0\C#-2\Methods\12.SubtractingPolynomials\bin\Debug\12.SubtractingPolynomials.pdb
+D:\Telerik\2.0\C#-2\Methods\12.SubtractingPolynomials\obj\Debug\12.SubtractingPolynomials.exe
+D:\Telerik\2.0\C#-2\Methods\12.SubtractingPolynomials\obj\Debug\12.SubtractingPolynomials.pdb

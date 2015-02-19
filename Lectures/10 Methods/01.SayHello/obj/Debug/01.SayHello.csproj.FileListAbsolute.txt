@@ -1,0 +1,6 @@
+D:\Telerik\2.0\C#-2\Methods\01.SayHello\bin\Debug\01.SayHello.exe.config
+D:\Telerik\2.0\C#-2\Methods\01.SayHello\obj\Debug\01.SayHello.csprojResolveAssemblyReference.cache
+D:\Telerik\2.0\C#-2\Methods\01.SayHello\bin\Debug\01.SayHello.exe
+D:\Telerik\2.0\C#-2\Methods\01.SayHello\bin\Debug\01.SayHello.pdb
+D:\Telerik\2.0\C#-2\Methods\01.SayHello\obj\Debug\01.SayHello.exe
+D:\Telerik\2.0\C#-2\Methods\01.SayHello\obj\Debug\01.SayHello.pdb

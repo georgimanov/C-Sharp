@@ -1,0 +1,5 @@
+D:\Telerik\2.0\C#-2\Methods\09.SortingArray\bin\Debug\09.SortingArray.exe.config
+D:\Telerik\2.0\C#-2\Methods\09.SortingArray\bin\Debug\09.SortingArray.exe
+D:\Telerik\2.0\C#-2\Methods\09.SortingArray\bin\Debug\09.SortingArray.pdb
+D:\Telerik\2.0\C#-2\Methods\09.SortingArray\obj\Debug\09.SortingArray.exe
+D:\Telerik\2.0\C#-2\Methods\09.SortingArray\obj\Debug\09.SortingArray.pdb

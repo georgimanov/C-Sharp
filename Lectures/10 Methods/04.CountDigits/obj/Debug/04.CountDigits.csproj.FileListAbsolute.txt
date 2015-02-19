@@ -1,0 +1,6 @@
+D:\Telerik\2.0\C#-2\Methods\04.CountDigits\bin\Debug\04.CountDigits.exe.config
+D:\Telerik\2.0\C#-2\Methods\04.CountDigits\bin\Debug\04.CountDigits.exe
+D:\Telerik\2.0\C#-2\Methods\04.CountDigits\bin\Debug\04.CountDigits.pdb
+D:\Telerik\2.0\C#-2\Methods\04.CountDigits\obj\Debug\04.CountDigits.exe
+D:\Telerik\2.0\C#-2\Methods\04.CountDigits\obj\Debug\04.CountDigits.pdb
+D:\Telerik\2.0\C#-2\Methods\04.CountDigits\obj\Debug\04.CountDigits.csprojResolveAssemblyReference.cache

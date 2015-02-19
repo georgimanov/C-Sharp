@@ -1,0 +1,5 @@
+D:\Telerik\2.0\C#-2\MultidimensionalArrays\02.FindMaximalSumInMatrix\bin\Debug\02.FindMaximalSumInMatrix.exe.config
+D:\Telerik\2.0\C#-2\MultidimensionalArrays\02.FindMaximalSumInMatrix\bin\Debug\02.FindMaximalSumInMatrix.exe
+D:\Telerik\2.0\C#-2\MultidimensionalArrays\02.FindMaximalSumInMatrix\bin\Debug\02.FindMaximalSumInMatrix.pdb
+D:\Telerik\2.0\C#-2\MultidimensionalArrays\02.FindMaximalSumInMatrix\obj\Debug\02.FindMaximalSumInMatrix.exe
+D:\Telerik\2.0\C#-2\MultidimensionalArrays\02.FindMaximalSumInMatrix\obj\Debug\02.FindMaximalSumInMatrix.pdb

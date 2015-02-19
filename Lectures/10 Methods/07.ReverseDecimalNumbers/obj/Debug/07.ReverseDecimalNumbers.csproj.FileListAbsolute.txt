@@ -1,0 +1,5 @@
+D:\Telerik\2.0\C#-2\Methods\07.ReverseDecimalNumbers\bin\Debug\07.ReverseDecimalNumbers.exe.config
+D:\Telerik\2.0\C#-2\Methods\07.ReverseDecimalNumbers\bin\Debug\07.ReverseDecimalNumbers.exe
+D:\Telerik\2.0\C#-2\Methods\07.ReverseDecimalNumbers\bin\Debug\07.ReverseDecimalNumbers.pdb
+D:\Telerik\2.0\C#-2\Methods\07.ReverseDecimalNumbers\obj\Debug\07.ReverseDecimalNumbers.exe
+D:\Telerik\2.0\C#-2\Methods\07.ReverseDecimalNumbers\obj\Debug\07.ReverseDecimalNumbers.pdb
