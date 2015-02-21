@@ -1,0 +1,6 @@
+D:\Telerik\2.0\C#-2\Methods\10.NFactorialTwo\bin\Debug\10.NFactorialTwo.exe.config
+D:\Telerik\2.0\C#-2\Methods\10.NFactorialTwo\bin\Debug\10.NFactorialTwo.exe
+D:\Telerik\2.0\C#-2\Methods\10.NFactorialTwo\bin\Debug\10.NFactorialTwo.pdb
+D:\Telerik\2.0\C#-2\Methods\10.NFactorialTwo\obj\Debug\10.NFactorialTwo.csprojResolveAssemblyReference.cache
+D:\Telerik\2.0\C#-2\Methods\10.NFactorialTwo\obj\Debug\10.NFactorialTwo.exe
+D:\Telerik\2.0\C#-2\Methods\10.NFactorialTwo\obj\Debug\10.NFactorialTwo.pdb

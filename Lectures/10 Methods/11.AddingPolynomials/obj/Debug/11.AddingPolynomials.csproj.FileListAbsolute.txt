@@ -3,3 +3,4 @@ D:\Telerik\2.0\C#-2\Methods\11.AddingPolynomials\bin\Debug\11.AddingPolynomials.
 D:\Telerik\2.0\C#-2\Methods\11.AddingPolynomials\bin\Debug\11.AddingPolynomials.pdb
 D:\Telerik\2.0\C#-2\Methods\11.AddingPolynomials\obj\Debug\11.AddingPolynomials.exe
 D:\Telerik\2.0\C#-2\Methods\11.AddingPolynomials\obj\Debug\11.AddingPolynomials.pdb
+D:\Telerik\2.0\C#-2\Methods\11.AddingPolynomials\obj\Debug\11.AddingPolynomials.csprojResolveAssemblyReference.cache
