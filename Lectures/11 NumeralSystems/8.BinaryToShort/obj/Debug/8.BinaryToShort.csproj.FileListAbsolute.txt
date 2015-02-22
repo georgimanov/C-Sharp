@@ -1,0 +1,5 @@
+D:\Telerik\2.0\C#-2\NumeralSystems\8.BinaryToShort\bin\Debug\8.BinaryToShort.exe.config
+D:\Telerik\2.0\C#-2\NumeralSystems\8.BinaryToShort\bin\Debug\8.BinaryToShort.exe
+D:\Telerik\2.0\C#-2\NumeralSystems\8.BinaryToShort\bin\Debug\8.BinaryToShort.pdb
+D:\Telerik\2.0\C#-2\NumeralSystems\8.BinaryToShort\obj\Debug\8.BinaryToShort.exe
+D:\Telerik\2.0\C#-2\NumeralSystems\8.BinaryToShort\obj\Debug\8.BinaryToShort.pdb

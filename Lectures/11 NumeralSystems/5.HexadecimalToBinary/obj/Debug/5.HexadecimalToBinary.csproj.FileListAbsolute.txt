@@ -1,0 +1,5 @@
+D:\Telerik\2.0\C#-2\NumeralSystems\5.HexadecimalToBinary\bin\Debug\5.HexadecimalToBinary.exe.config
+D:\Telerik\2.0\C#-2\NumeralSystems\5.HexadecimalToBinary\bin\Debug\5.HexadecimalToBinary.exe
+D:\Telerik\2.0\C#-2\NumeralSystems\5.HexadecimalToBinary\bin\Debug\5.HexadecimalToBinary.pdb
+D:\Telerik\2.0\C#-2\NumeralSystems\5.HexadecimalToBinary\obj\Debug\5.HexadecimalToBinary.exe
+D:\Telerik\2.0\C#-2\NumeralSystems\5.HexadecimalToBinary\obj\Debug\5.HexadecimalToBinary.pdb
