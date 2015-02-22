@@ -34,7 +34,6 @@ namespace _4.HexadecimalToDecimal
             }
 
             return decimalNumber; 
-
         }
 
     }
