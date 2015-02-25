@@ -1,3 +1,6 @@
+Video: https://www.youtube.com/watch?v=OF7lzlfpMok
+Trainer : Ivaylo Kenov
+
 using System.Collections.Generic;
 
 List<int> numbers = new List<int>();
