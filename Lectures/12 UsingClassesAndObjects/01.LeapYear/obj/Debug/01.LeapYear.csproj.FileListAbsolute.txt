@@ -1,0 +1,6 @@
+D:\Telerik\2.0\C#-2\UsingClassesAndObjects\01.LeapYear\bin\Debug\01.LeapYear.exe.config
+D:\Telerik\2.0\C#-2\UsingClassesAndObjects\01.LeapYear\bin\Debug\01.LeapYear.exe
+D:\Telerik\2.0\C#-2\UsingClassesAndObjects\01.LeapYear\bin\Debug\01.LeapYear.pdb
+D:\Telerik\2.0\C#-2\UsingClassesAndObjects\01.LeapYear\obj\Debug\01.LeapYear.csprojResolveAssemblyReference.cache
+D:\Telerik\2.0\C#-2\UsingClassesAndObjects\01.LeapYear\obj\Debug\01.LeapYear.exe
+D:\Telerik\2.0\C#-2\UsingClassesAndObjects\01.LeapYear\obj\Debug\01.LeapYear.pdb

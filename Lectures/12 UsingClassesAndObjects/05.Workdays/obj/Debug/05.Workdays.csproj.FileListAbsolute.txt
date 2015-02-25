@@ -1,0 +1,6 @@
+D:\Telerik\2.0\C#-2\UsingClassesAndObjects\05.Workdays\bin\Debug\05.Workdays.exe.config
+D:\Telerik\2.0\C#-2\UsingClassesAndObjects\05.Workdays\bin\Debug\05.Workdays.exe
+D:\Telerik\2.0\C#-2\UsingClassesAndObjects\05.Workdays\bin\Debug\05.Workdays.pdb
+D:\Telerik\2.0\C#-2\UsingClassesAndObjects\05.Workdays\obj\Debug\05.Workdays.csprojResolveAssemblyReference.cache
+D:\Telerik\2.0\C#-2\UsingClassesAndObjects\05.Workdays\obj\Debug\05.Workdays.exe
+D:\Telerik\2.0\C#-2\UsingClassesAndObjects\05.Workdays\obj\Debug\05.Workdays.pdb

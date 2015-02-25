@@ -1,0 +1,6 @@
+D:\Telerik\2.0\C#-2\UsingClassesAndObjects\03.DayOfWeek\bin\Debug\03.DayOfWeek.exe.config
+D:\Telerik\2.0\C#-2\UsingClassesAndObjects\03.DayOfWeek\obj\Debug\03.DayOfWeek.csprojResolveAssemblyReference.cache
+D:\Telerik\2.0\C#-2\UsingClassesAndObjects\03.DayOfWeek\bin\Debug\03.DayOfWeek.exe
+D:\Telerik\2.0\C#-2\UsingClassesAndObjects\03.DayOfWeek\bin\Debug\03.DayOfWeek.pdb
+D:\Telerik\2.0\C#-2\UsingClassesAndObjects\03.DayOfWeek\obj\Debug\03.DayOfWeek.exe
+D:\Telerik\2.0\C#-2\UsingClassesAndObjects\03.DayOfWeek\obj\Debug\03.DayOfWeek.pdb

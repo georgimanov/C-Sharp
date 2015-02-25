@@ -1,0 +1,5 @@
+D:\Telerik\2.0\C#-2\UsingClassesAndObjects\02.RandomGenerator\bin\Debug\02.RandomGenerator.exe.config
+D:\Telerik\2.0\C#-2\UsingClassesAndObjects\02.RandomGenerator\bin\Debug\02.RandomGenerator.exe
+D:\Telerik\2.0\C#-2\UsingClassesAndObjects\02.RandomGenerator\bin\Debug\02.RandomGenerator.pdb
+D:\Telerik\2.0\C#-2\UsingClassesAndObjects\02.RandomGenerator\obj\Debug\02.RandomGenerator.exe
+D:\Telerik\2.0\C#-2\UsingClassesAndObjects\02.RandomGenerator\obj\Debug\02.RandomGenerator.pdb
