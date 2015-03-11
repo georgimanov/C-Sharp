@@ -1,0 +1,6 @@
+D:\Telerik\2.0\C#-2\Exams\Exam-2015-03-06\Exam-2015-03-06\NumeralSystem\bin\Debug\NumeralSystem.exe.config
+D:\Telerik\2.0\C#-2\Exams\Exam-2015-03-06\Exam-2015-03-06\NumeralSystem\bin\Debug\NumeralSystem.exe
+D:\Telerik\2.0\C#-2\Exams\Exam-2015-03-06\Exam-2015-03-06\NumeralSystem\bin\Debug\NumeralSystem.pdb
+D:\Telerik\2.0\C#-2\Exams\Exam-2015-03-06\Exam-2015-03-06\NumeralSystem\obj\Debug\NumeralSystem.csprojResolveAssemblyReference.cache
+D:\Telerik\2.0\C#-2\Exams\Exam-2015-03-06\Exam-2015-03-06\NumeralSystem\obj\Debug\NumeralSystem.exe
+D:\Telerik\2.0\C#-2\Exams\Exam-2015-03-06\Exam-2015-03-06\NumeralSystem\obj\Debug\NumeralSystem.pdb

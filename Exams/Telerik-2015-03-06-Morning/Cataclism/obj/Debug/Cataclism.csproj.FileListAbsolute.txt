@@ -1,0 +1,6 @@
+D:\Telerik\2.0\C#-2\Exams\Exam-2015-03-06\Exam-2015-03-06\Cataclism\bin\Debug\Cataclism.exe.config
+D:\Telerik\2.0\C#-2\Exams\Exam-2015-03-06\Exam-2015-03-06\Cataclism\bin\Debug\Cataclism.exe
+D:\Telerik\2.0\C#-2\Exams\Exam-2015-03-06\Exam-2015-03-06\Cataclism\bin\Debug\Cataclism.pdb
+D:\Telerik\2.0\C#-2\Exams\Exam-2015-03-06\Exam-2015-03-06\Cataclism\obj\Debug\Cataclism.csprojResolveAssemblyReference.cache
+D:\Telerik\2.0\C#-2\Exams\Exam-2015-03-06\Exam-2015-03-06\Cataclism\obj\Debug\Cataclism.exe
+D:\Telerik\2.0\C#-2\Exams\Exam-2015-03-06\Exam-2015-03-06\Cataclism\obj\Debug\Cataclism.pdb

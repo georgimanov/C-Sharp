@@ -1,0 +1,6 @@
+D:\Telerik\2.0\C#-2\Exams\Exam-2015-03-06\Exam-2015-03-06\Patterns\obj\Debug\Patterns.csprojResolveAssemblyReference.cache
+D:\Telerik\2.0\C#-2\Exams\Exam-2015-03-06\Exam-2015-03-06\Patterns\bin\Debug\Patterns.exe.config
+D:\Telerik\2.0\C#-2\Exams\Exam-2015-03-06\Exam-2015-03-06\Patterns\bin\Debug\Patterns.exe
+D:\Telerik\2.0\C#-2\Exams\Exam-2015-03-06\Exam-2015-03-06\Patterns\bin\Debug\Patterns.pdb
+D:\Telerik\2.0\C#-2\Exams\Exam-2015-03-06\Exam-2015-03-06\Patterns\obj\Debug\Patterns.exe
+D:\Telerik\2.0\C#-2\Exams\Exam-2015-03-06\Exam-2015-03-06\Patterns\obj\Debug\Patterns.pdb

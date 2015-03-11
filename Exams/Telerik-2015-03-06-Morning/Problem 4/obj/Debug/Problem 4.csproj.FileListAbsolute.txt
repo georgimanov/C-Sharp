@@ -1,0 +1,5 @@
+D:\Telerik\2.0\C#-2\Exams\Exam-2015-03-06\Exam-2015-03-06\Problem 4\bin\Debug\Problem 4.exe.config
+D:\Telerik\2.0\C#-2\Exams\Exam-2015-03-06\Exam-2015-03-06\Problem 4\bin\Debug\Problem 4.exe
+D:\Telerik\2.0\C#-2\Exams\Exam-2015-03-06\Exam-2015-03-06\Problem 4\bin\Debug\Problem 4.pdb
+D:\Telerik\2.0\C#-2\Exams\Exam-2015-03-06\Exam-2015-03-06\Problem 4\obj\Debug\Problem 4.exe
+D:\Telerik\2.0\C#-2\Exams\Exam-2015-03-06\Exam-2015-03-06\Problem 4\obj\Debug\Problem 4.pdb

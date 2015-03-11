@@ -1,0 +1,6 @@
+D:\Telerik\2.0\OOP\DefiningClassesPartOne\GSM\bin\Debug\GSM.exe.config
+D:\Telerik\2.0\OOP\DefiningClassesPartOne\GSM\bin\Debug\GSM.exe
+D:\Telerik\2.0\OOP\DefiningClassesPartOne\GSM\bin\Debug\GSM.pdb
+D:\Telerik\2.0\OOP\DefiningClassesPartOne\GSM\obj\Debug\GSM.csprojResolveAssemblyReference.cache
+D:\Telerik\2.0\OOP\DefiningClassesPartOne\GSM\obj\Debug\GSM.exe
+D:\Telerik\2.0\OOP\DefiningClassesPartOne\GSM\obj\Debug\GSM.pdb
