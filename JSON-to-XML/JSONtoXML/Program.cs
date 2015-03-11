@@ -26,12 +26,6 @@ namespace JSONtoXML
                 }
             }
 
-            const string json = @"{
-    ""foo"":""bar"",
-    ""complexFoo"": {
-        ""subFoo"":""subBar""
-    }
-}";
             byte[] bytes = Encoding.ASCII.GetBytes(sb.ToString());
             using (var stream = new MemoryStream(bytes))
             {
