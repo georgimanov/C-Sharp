@@ -1,0 +1,6 @@
+D:\SoftUni\Level #3\DB Applications\Teamwork\JSONtoXML\JSONtoXML\bin\Debug\JSONtoXML.exe.config
+D:\SoftUni\Level #3\DB Applications\Teamwork\JSONtoXML\JSONtoXML\obj\Debug\JSONtoXML.csprojResolveAssemblyReference.cache
+D:\SoftUni\Level #3\DB Applications\Teamwork\JSONtoXML\JSONtoXML\bin\Debug\JSONtoXML.exe
+D:\SoftUni\Level #3\DB Applications\Teamwork\JSONtoXML\JSONtoXML\bin\Debug\JSONtoXML.pdb
+D:\SoftUni\Level #3\DB Applications\Teamwork\JSONtoXML\JSONtoXML\obj\Debug\JSONtoXML.exe
+D:\SoftUni\Level #3\DB Applications\Teamwork\JSONtoXML\JSONtoXML\obj\Debug\JSONtoXML.pdb
