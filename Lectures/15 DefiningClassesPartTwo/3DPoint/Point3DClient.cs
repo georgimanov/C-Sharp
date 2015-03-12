@@ -4,7 +4,7 @@
 
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             Point3D pointOne = new Point3D(10, 15, 20);
             Point3D pointTwo = new Point3D(1, 2, 3);
@@ -16,7 +16,7 @@
 
             Console.WriteLine("Distance between {0} and {1} is {2:F2}", pointOne, pointTwo, distance);
 
-            string fileName = "StorageTest";
+            const string fileName = "StorageTest";
 
             Path path = new Path();
             path.AddPoints(pointOne, pointTwo);
