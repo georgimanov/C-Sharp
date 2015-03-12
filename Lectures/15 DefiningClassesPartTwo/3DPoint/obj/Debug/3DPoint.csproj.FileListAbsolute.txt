@@ -1,0 +1,6 @@
+D:\Telerik\2.0\OOP\DefiningClassesPartTwo\3DPoint\bin\Debug\3DPoint.exe.config
+D:\Telerik\2.0\OOP\DefiningClassesPartTwo\3DPoint\bin\Debug\3DPoint.exe
+D:\Telerik\2.0\OOP\DefiningClassesPartTwo\3DPoint\bin\Debug\3DPoint.pdb
+D:\Telerik\2.0\OOP\DefiningClassesPartTwo\3DPoint\obj\Debug\3DPoint.csprojResolveAssemblyReference.cache
+D:\Telerik\2.0\OOP\DefiningClassesPartTwo\3DPoint\obj\Debug\3DPoint.exe
+D:\Telerik\2.0\OOP\DefiningClassesPartTwo\3DPoint\obj\Debug\3DPoint.pdb
