@@ -20,7 +20,6 @@
             }
         }
 
-
         public Point3D(double x, double y, double z)
             :this()
         {
@@ -33,7 +32,6 @@
         {
             pointZero = new Point3D(0, 0, 0);
         }
-
 
         public override string ToString()
         {

@@ -1,29 +1,55 @@
 ﻿namespace _3DPoint
 {
+    using System;
     using System.Collections.Generic;
 
     public class Path
     {
-        ICollection<Point3D> SequenceOfPoints { get; set; }
+        private List<Point3D> points;
 
         public Path()
         {
-            this.SequenceOfPoints = new HashSet<Point3D>();
+            this.points = new List<Point3D>();
         }
 
-        public ICollection<Point3D> GetPath()
+        public int Count
         {
-            if (this.SequenceOfPoints != null)
+            get
             {
-                return this.SequenceOfPoints;
+                return this.points.Count;
             }
-            else
+        }
+
+        public Point3D this[int index]
+        {
+            get
             {
-                this.SequenceOfPoints = new HashSet<Point3D>();
-
-                return this.SequenceOfPoints;
+                return this.points[index];
             }
+            set
+            {
+                this.points[index] = value;
+            }
+        }
 
+        public void AddPoint(Point3D point3D)
+        {
+            this.points.Add(point3D);
+        }
+
+        public void AddPoints(params Point3D[] point3D)
+        {
+            this.points.AddRange(point3D);
+        }
+
+        public void AddPoints(ICollection<Point3D> point3D)
+        {
+            this.points.AddRange(point3D);
+        }
+
+        public override string ToString()
+        {
+            return String.Join("\n", this.points);
         }
     }
 }

@@ -41,7 +41,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Constants.cs" />
     <Compile Include="DistanceCalculator.cs" />
     <Compile Include="Path.cs" />
     <Compile Include="PathStorage.cs" />

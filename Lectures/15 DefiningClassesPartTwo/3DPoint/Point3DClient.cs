@@ -15,6 +15,15 @@
             var distance = DistanceCalculator.Calculate(pointOne, pointTwo);
 
             Console.WriteLine("Distance between {0} and {1} is {2:F2}", pointOne, pointTwo, distance);
+
+            string fileName = "StorageTest";
+
+            Path path = new Path();
+            path.AddPoints(pointOne, pointTwo);
+            PathStorage.Save(path, fileName);
+            PathStorage.Load(fileName);
+            Console.WriteLine(path);
+            Console.WriteLine(PathStorage.Load("test"));
         }
     }
 }
