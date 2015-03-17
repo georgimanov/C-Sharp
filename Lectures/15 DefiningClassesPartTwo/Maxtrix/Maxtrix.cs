@@ -1,67 +1,155 @@
-﻿namespace Maxtrix
+﻿using System.CodeDom;
+using System.IO.Pipes;
+using System.Security.Cryptography.X509Certificates;
+
+namespace Maxtrix
 {
     using System;
-    using System.Collections.Generic;
-    using System.Linq;
-    using System.Text;
-    using System.Threading.Tasks;
-    using System.Data.Common;
 
-    public class Matrix<T>
+    public class Matrix<T> 
+        where T : IComparable
     {
-        private const int InitialSizeRows = 16;
-        private const int InitialSizeCols = 16;
-
+        private int rows;
+        private int cols;
         private T[,] matrix;
 
-        public Matrix()
-            : this(InitialSizeRows, InitialSizeCols)
+        public Matrix(int rows, int cols)
         {
-            this.matrix = new T[InitialSizeRows, InitialSizeCols];
+            this.Rows = rows;
+            this.Cols = cols;
         }
 
-        public Matrix(int initialSizeRows, int initialSizeCols)
+        public T this[int row, int col]
         {
-            if (initialSizeRows < 2 || initialSizeCols < 2)
+            get
             {
-                throw new IndexOutOfRangeException("Initial size (rows/cols) must be bigger than 2");
-            }
+                if (((row < 0) || row >= this.Rows) ||
+                ((col < 0) || col >= this.Cols))
+                {
+                    throw new IndexOutOfRangeException();
+                }
 
-            this.matrix = new T[initialSizeRows, initialSizeCols];
+                return this.matrix[row, col];
+            }
+            set
+            {
+                if (((row < 0) || row >= this.Rows) ||
+                ((col < 0) || col >= this.Cols))
+                {
+                    throw new IndexOutOfRangeException();
+                }
+
+                this.matrix[row, col] = value;
+            }
         }
 
-        public T GetElement(int row, int col)
+        public int Rows
         {
-            if ( ! ((this.matrix.GetLength(0) > row && row >= 0) &&
-                 (this.matrix.GetLength(1) > col && col >= 0)))
+            get
             {
-                throw new IndexOutOfRangeException("rows/cols must be inside matrix");
+                return this.Rows;
             }
-
-            return this.matrix[row, col];
+            set
+            {
+                if (value < 1)
+                {
+                    throw new ArgumentOutOfRangeException("Matrix should have at least one row");
+                }
+         
+                this.rows = value;
+            }
         }
 
-        public void SetElement(int row, int col, T value)
+        public int Cols
         {
-            if (!((this.matrix.GetLength(0) > row && row >= 0) &&
-                 (this.matrix.GetLength(1) > col && col >= 0)))
+            get
             {
-                throw new IndexOutOfRangeException("rows/cols must be inside matrix");
+                return this.Cols;
             }
+            set
+            {
+                if (value < 1)
+                {
+                    throw new ArgumentOutOfRangeException("Matrix should have at least one column");
+                }
 
-            this.matrix[row, col] = value;
+                this.cols = value;
+            }
         }
 
         public void PrintMatrix()
         {
-            for (int i = 0; i < this.matrix.GetLength(0); i++)
+            for (int i = 0; i < this.Rows; i++)
             {
-                for (int j = 0; j < this.matrix.GetLength(1); j++)
+                for (int j = 0; j < this.Cols; j++)
                 {
                     Console.Write("{0}".PadRight(8), this.matrix[i,j]);
                 }
                 Console.WriteLine();
             }
+        }
+
+        public static Matrix<T> operator +(Matrix<T> a, Matrix<T> b)
+        {
+
+            if (a.Rows != b.Rows || a.Cols != b.Cols)
+            {
+                throw new ArgumentOutOfRangeException("Matrices should be of the same size");
+            }
+
+            Matrix<T> result = new Matrix<T>(a.Rows, a.Cols);
+
+            for (int row = 0; row < a.Rows; row++)
+            {
+                for (int col = 0; col < a.Cols; col++)
+                {
+                    result[row, col] = (dynamic)a[row, col] + b[row, col];
+                }
+            }
+
+            return result;
+        }
+
+        public static Matrix<T> operator -(Matrix<T> a, Matrix<T> b)
+        {
+            if (a.Rows != b.Rows || a.Cols != b.Cols)
+            {
+                throw new ArgumentOutOfRangeException("Matrices should be of the same size");
+            }
+
+            Matrix<T> result = new Matrix<T>(a.Rows, a.Cols);
+
+            for (int row = 0; row < a.Rows; row++)
+            {
+                for (int col = 0; col < a.Cols; col++)
+                {
+                    result[row, col] = (dynamic)a[row, col] - b[row, col];
+                }
+            }
+
+            return result;
+        }
+
+        public static Matrix<T> operator *(Matrix<T> a, Matrix<T> b)
+        {
+            // TODO:
+
+            if (a.Rows != b.Rows || a.Cols != b.Cols)
+            {
+                throw new ArgumentOutOfRangeException("Matrices should be of the same size");
+            }
+
+            Matrix<T> result = new Matrix<T>(a.Rows, b.Cols);
+
+            for (int row = 0; row < a.Rows; row++)
+            {
+                for (int col = 0; col < a.Cols; col++)
+                {
+                    result[row, col] = (dynamic)a[row, col] - b[row, col];
+                }
+            }
+
+            return result;
         }
     }
 }
