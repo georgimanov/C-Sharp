@@ -1,23 +1,18 @@
-﻿using System.Data.Common;
-
-namespace GenericClass
+﻿namespace GenericClass
 {
     using System;
-    using System.Collections.Generic;
     using System.Linq;
-    using System.Text;
-    using System.Threading.Tasks;
-
+    
     public class GenericClass<T>
     {
         private const int InitialSize = 16;
         private T[] data;
         private int indexer;
 
-        public GenericClass() 
+        public GenericClass()
             : this(InitialSize)
         {
-            this.data = new T[InitialSize];
+            data = new T[InitialSize];
         }
 
         public GenericClass(int initialSize)
@@ -27,30 +22,30 @@ namespace GenericClass
                 throw new IndexOutOfRangeException("Initial size must be bigger than 2");
             }
 
-            this.data = new T[initialSize];
-            this.indexer = 0;
+            data = new T[initialSize];
+            indexer = 0;
         }
 
         public int Size()
         {
-            return this.indexer;
+            return indexer;
         }
 
         public void Add(T element)
         {
-            if (this.indexer == this.data.Count())
+            if (indexer == data.Count())
             {
-                this.data = ResizeData();
+                data = ResizeData();
             }
-            
-            this.data[indexer] = element;
-            this.indexer++;
+
+            data[indexer] = element;
+            indexer++;
         }
 
         private T[] ResizeData()
         {
-            var newData = new T[this.data.Count() * 2];
-            for (int i = 0; i < this.data.Count(); i++)
+            var newData = new T[data.Count()*2];
+            for (var i = 0; i < data.Count(); i++)
             {
                 newData[i] = GetElementAtIndex(i);
             }
@@ -64,12 +59,12 @@ namespace GenericClass
                 throw new IndexOutOfRangeException("Index out of range");
             }
 
-            for (int i = index; i < this.data.Count() - 1; i++)
+            for (var i = index; i < data.Count() - 1; i++)
             {
-                this.data[i] = this.data[i + 1];
+                data[i] = data[i + 1];
             }
-            this.data[this.data.Count() - 1] = default(T);
-            this.indexer--;
+            data[data.Count() - 1] = default(T);
+            indexer--;
         }
 
         public void InsertElementAtIndex(int index, T element)
@@ -79,41 +74,41 @@ namespace GenericClass
                 throw new IndexOutOfRangeException("Index out of range");
             }
 
-            if (this.indexer + 1 == this.data.Count())
+            if (indexer + 1 == data.Count())
             {
-                this.data = ResizeData();
+                data = ResizeData();
             }
 
-            for (int i = index; i <= this.Size(); i++)
+            for (var i = index; i <= Size(); i++)
             {
-                this.data[i + 1] = this.data[i];
+                data[i + 1] = data[i];
             }
 
-            this.data[index] = element;
+            data[index] = element;
 
             indexer++;
         }
 
         public T GetElementAtIndex(int index)
         {
-            return this.data[index];
+            return data[index];
         }
 
         public void Clear()
         {
-            for (int i = 0; i < this.data.Count(); i++)
+            for (var i = 0; i < data.Count(); i++)
             {
-                this.data[i] = default (T);
+                data[i] = default (T);
             }
 
-            this.indexer = 0;
+            indexer = 0;
         }
 
         public int FindFirstOrDefault(T element)
         {
-            for (int i = 0; i < this.data.Count(); i++)
+            for (var i = 0; i < data.Count(); i++)
             {
-                if (this.data[i].Equals(element))
+                if (data[i].Equals(element))
                 {
                     return i;
                     break;
@@ -125,27 +120,31 @@ namespace GenericClass
 
         public T Max()
         {
-            var max = this.data.OrderByDescending(x => x).FirstOrDefault();
+            var max = data.OrderByDescending(x => x).FirstOrDefault();
+
             return max;
         }
 
         public T Min()
         {
-            var min = this.data.OrderBy(x => x).FirstOrDefault();
+            var min = data.OrderBy(x => x).FirstOrDefault();
+            
             return min;
         }
 
         public override string ToString()
         {
-            if (this.indexer == 0)
+            if (indexer == 0)
             {
                 return "List is empty";
             }
+            
             var printData = new T[Size()];
-            for (int i = 0; i < Size(); i++)
+            for (var i = 0; i < Size(); i++)
             {
-                printData[i] = this.data[i];
+                printData[i] = data[i];
             }
+            
             return String.Join(", ", printData);
         }
     }

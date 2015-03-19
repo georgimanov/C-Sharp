@@ -2,7 +2,7 @@
 {
     using System;
 
-    class Program
+    class Point3DTest
     {
         static void Main()
         {

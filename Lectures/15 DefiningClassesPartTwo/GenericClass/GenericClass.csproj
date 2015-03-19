@@ -42,7 +42,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="GenericClass.cs" />
-    <Compile Include="GenericClassClient.cs" />
+    <Compile Include="GenericClassRename.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

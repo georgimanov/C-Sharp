@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3DPoint", "3DPoint\3DPoint.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericClass", "GenericClass\GenericClass.csproj", "{E0D1FEF1-81D8-4CA0-B488-6E9FC80E0A0C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maxtrix", "Maxtrix\Maxtrix.csproj", "{1A3A2AE2-0BB4-4A3A-8AB5-700F9917B13C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VersionAttribute", "VersionAttribute\VersionAttribute.csproj", "{5C49F968-C30C-4100-AE65-CC6C0F2FE70F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{E0D1FEF1-81D8-4CA0-B488-6E9FC80E0A0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E0D1FEF1-81D8-4CA0-B488-6E9FC80E0A0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E0D1FEF1-81D8-4CA0-B488-6E9FC80E0A0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A3A2AE2-0BB4-4A3A-8AB5-700F9917B13C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A3A2AE2-0BB4-4A3A-8AB5-700F9917B13C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A3A2AE2-0BB4-4A3A-8AB5-700F9917B13C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A3A2AE2-0BB4-4A3A-8AB5-700F9917B13C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C49F968-C30C-4100-AE65-CC6C0F2FE70F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C49F968-C30C-4100-AE65-CC6C0F2FE70F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C49F968-C30C-4100-AE65-CC6C0F2FE70F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C49F968-C30C-4100-AE65-CC6C0F2FE70F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

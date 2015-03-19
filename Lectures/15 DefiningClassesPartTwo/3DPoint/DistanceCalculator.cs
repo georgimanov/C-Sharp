@@ -1,6 +1,7 @@
 ﻿namespace _3DPoint
 {
     using System;
+
     public class DistanceCalculator
     {
         public static double Calculate(Point3D p1, Point3D p2)
