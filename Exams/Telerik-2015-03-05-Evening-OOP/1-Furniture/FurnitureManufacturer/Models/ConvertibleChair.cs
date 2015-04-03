@@ -8,17 +8,15 @@ using FurnitureManufacturer.Interfaces;
 
 namespace FurnitureManufacturer.Models
 {
-    class ConvertibleChair : Chair, IConvertibleChair, IChair, IFurniture
+    class ConvertibleChair : Chair, IConvertibleChair
     {
-        private bool isConverted;
+        private bool isConverted = false;
         private const decimal convertedHeight = 0.10m;
-        private readonly decimal initialHeight;
 
-        public ConvertibleChair(string model, MaterialType materialType, decimal price, decimal height, int numberOfLegs, bool isConverted = false)
+        public ConvertibleChair(string model, MaterialType materialType, decimal price, decimal height, int numberOfLegs)
             : base(model, materialType, price, height, numberOfLegs)
         {
             this.IsConverted = isConverted;
-            initialHeight = height;
         }
 
         public bool IsConverted
@@ -30,13 +28,20 @@ namespace FurnitureManufacturer.Models
         public void Convert()
         {
             this.isConverted = !this.isConverted;
-            if (this.isConverted)
+        }
+
+        public override decimal Height
+        {
+            get
             {
-                this.Height = convertedHeight;
-            }
-            else
-            {
-                this.Height = initialHeight;
+                if (this.isConverted)
+                {
+                    return convertedHeight;
+                }
+                else
+                {
+                    return base.Height;
+                }
             }
         }
 

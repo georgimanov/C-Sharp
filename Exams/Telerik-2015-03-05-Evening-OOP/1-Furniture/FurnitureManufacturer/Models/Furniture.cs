@@ -60,7 +60,7 @@ namespace FurnitureManufacturer.Models
             }
         }
 
-        public decimal Height
+        public virtual decimal Height
         {
             get
             {

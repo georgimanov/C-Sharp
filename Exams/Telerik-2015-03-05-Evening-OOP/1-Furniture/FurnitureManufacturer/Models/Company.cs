@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using FurnitureManufacturer.Interfaces;
@@ -7,15 +8,15 @@ namespace FurnitureManufacturer.Models
 {
     public class Company : ICompany
     {
-        public ICollection<IFurniture> catalog;
+        public ICollection<IFurniture> furnitures;
         public string name;
         public string registrationNumber;
 
         public Company(string name, string registrationNumber)
         {
-            Name = name;
-            RegistrationNumber = registrationNumber;
-            catalog = new List<IFurniture>();
+            this.Name = name;
+            this.RegistrationNumber = registrationNumber;
+            this.furnitures = new List<IFurniture>();
         }
 
         public string Name
@@ -25,7 +26,7 @@ namespace FurnitureManufacturer.Models
             {
                 Validator.CheckNullOrEmpty(value);
                 Validator.CheckLenght(value, 5, false);
-                name = value;
+                this.name = value;
             }
         }
 
@@ -40,29 +41,35 @@ namespace FurnitureManufacturer.Models
                 Validator.CheckLenght(value, 10, true);
                 Validator.DigitsOnly(value);
 
+                if (value == null || value.Length != 10)
+                {
+                    throw new ArgumentNullException("Reg number cannot be null!");
+                }
+
                 this.registrationNumber = value;
             }
         }
 
         public ICollection<IFurniture> Furnitures
         {
-            get { return new List<IFurniture>(catalog.OrderBy(p => p.Price).ThenBy(m => m.Model)); }
+
+            get { return this.furnitures; }
         }
 
         public void Add(IFurniture furniture)
         {
-            catalog.Add(furniture);
+            this.furnitures.Add(furniture);
         }
 
         public void Remove(IFurniture furniture)
         {
-            catalog.Remove(furniture);
+            this.furnitures.Remove(furniture);
         }
 
         public IFurniture Find(string model)
         {
-            return catalog.FirstOrDefault(m => m.Model == model);
-        }
+            return furnitures.FirstOrDefault(m => m.Model.ToLower() == model.ToLower());
+        }   
 
         public string Catalog()
         {
@@ -76,9 +83,11 @@ namespace FurnitureManufacturer.Models
 
             if (Furnitures.Count != 0)
             {
-                foreach (var item in Furnitures)
+                var furniture = this.furnitures.OrderBy(p => p.Price).ThenBy(m => m.Model);
+
+                foreach (var f in furniture)
                 {
-                    sb.AppendLine(item.ToString());
+                    sb.AppendLine(f.ToString());
                 }
             }
 
