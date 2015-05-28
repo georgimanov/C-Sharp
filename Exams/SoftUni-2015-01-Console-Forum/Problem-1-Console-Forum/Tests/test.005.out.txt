@@ -1,0 +1,118 @@
+User pesho with Id: 2 successfully registered
+User gosho with Id: 3 successfully registered
+User pepi with Id: 4 successfully registered
+User pesho successfully logged in
+Question with Id: 1 successfully posted
+Logout success
+User gosho successfully logged in
+Question with Id: 2 successfully posted
+Logout success
+User pepi successfully logged in
+Question with Id: 3 successfully posted
+[ Question ID: 1 ]
+Posted by: pesho
+Question Title: HBO
+Question Body: top_movies
+====================
+No answers
+[ Question ID: 2 ]
+Posted by: gosho
+Question Title: cinema
+Question Body: best_cinema
+====================
+No answers
+[ Question ID: 3 ]
+Posted by: pepi
+Question Title: club
+Question Body: best_club
+====================
+No answers
+[ Question ID: 1 ]
+Posted by: pesho
+Question Title: HBO
+Question Body: top_movies
+====================
+No answers
+Answer with Id: 1 successfully posted
+Answer with Id: 2 successfully posted
+Logout success
+User gosho successfully logged in
+[ Question ID: 1 ]
+Posted by: pesho
+Question Title: HBO
+Question Body: top_movies
+====================
+Answers:
+[ Answer ID: 1 ]
+Posted by: pepi
+Answer Body: pepi1
+--------------------
+[ Answer ID: 2 ]
+Posted by: pepi
+Answer Body: pepi2
+--------------------
+Answer with Id: 3 successfully posted
+[ Question ID: 3 ]
+Posted by: pepi
+Question Title: club
+Question Body: best_club
+====================
+No answers
+Answer with Id: 4 successfully posted
+Logout success
+User pesho successfully logged in
+[ Question ID: 1 ]
+Posted by: pesho
+Question Title: HBO
+Question Body: top_movies
+====================
+Answers:
+[ Answer ID: 1 ]
+Posted by: pepi
+Answer Body: pepi1
+--------------------
+[ Answer ID: 2 ]
+Posted by: pepi
+Answer Body: pepi2
+--------------------
+[ Answer ID: 3 ]
+Posted by: gosho
+Answer Body: gosho1
+--------------------
+Answer with Id: 2 successfully made best answer
+[ Question ID: 1 ]
+Posted by: pesho
+Question Title: HBO
+Question Body: top_movies
+====================
+Answers:
+********************
+[ Answer ID: 2 ]
+Posted by: pepi
+Answer Body: pepi2
+--------------------
+********************
+[ Answer ID: 1 ]
+Posted by: pepi
+Answer Body: pepi1
+--------------------
+[ Answer ID: 3 ]
+Posted by: gosho
+Answer Body: gosho1
+--------------------
+[ Question ID: 2 ]
+Posted by: gosho
+Question Title: cinema
+Question Body: best_cinema
+====================
+No answers
+[ Question ID: 3 ]
+Posted by: pepi
+Question Title: club
+Question Body: best_club
+====================
+Answers:
+[ Answer ID: 4 ]
+Posted by: gosho
+Answer Body: whaaat
+--------------------

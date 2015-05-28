@@ -1,0 +1,17 @@
+register pesho 123 pesho@mail.bg
+register gosho 123 gosho@abv.bg
+login pesho 123
+postQuestion HBO top_movies
+logout
+login gosho 123
+openQuestion 1
+postAnswer matrix
+logout
+login pesho 123
+openQuestion 1
+logout
+showQuestions
+login gosho 123
+openQuestion 1
+showQuestions
+exit

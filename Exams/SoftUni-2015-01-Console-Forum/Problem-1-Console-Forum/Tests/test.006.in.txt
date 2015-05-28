@@ -1,0 +1,26 @@
+register pesho 123 pesho@mail.bg
+register gosho 123 pesho@mail.bg
+register pesho 123 gosho@mail.bg
+register gosho 123 gosho@abv.bg
+login pesho 123
+postQuestion HBO top_movies
+logout
+login gosho 123
+openQuestion 90
+openQuestion 1
+postAnswer brrrrr
+logout
+login pesho 123
+openQuestion 1
+postAnswer rarara
+logout
+login gosho 123
+openQuestion 1
+makeBestAnswer 1
+logout
+login pesho 123
+makeBestAnswer 2
+openQuestion 1
+makeBestAnswer 2
+showQuestions
+exit

@@ -1,0 +1,10 @@
+register pesho 123 pesho@mail.bg
+login pesho 123
+postQuestion HBO top_movies
+logout
+register gosho qwerty g@gmail.bg
+login gosho qwerty
+openQuestion 1
+postAnswer StarWars
+showQuestions
+exit

@@ -1,0 +1,80 @@
+User pesho with Id: 2 successfully registered
+User with the same mail or username already exists
+User with the same mail or username already exists
+User gosho with Id: 3 successfully registered
+User pesho successfully logged in
+Question with Id: 1 successfully posted
+Logout success
+User gosho successfully logged in
+No such question
+[ Question ID: 1 ]
+Posted by: pesho
+Question Title: HBO
+Question Body: top_movies
+====================
+No answers
+Answer with Id: 1 successfully posted
+Logout success
+User pesho successfully logged in
+[ Question ID: 1 ]
+Posted by: pesho
+Question Title: HBO
+Question Body: top_movies
+====================
+Answers:
+[ Answer ID: 1 ]
+Posted by: gosho
+Answer Body: brrrrr
+--------------------
+Answer with Id: 2 successfully posted
+Logout success
+User gosho successfully logged in
+[ Question ID: 1 ]
+Posted by: pesho
+Question Title: HBO
+Question Body: top_movies
+====================
+Answers:
+[ Answer ID: 1 ]
+Posted by: gosho
+Answer Body: brrrrr
+--------------------
+[ Answer ID: 2 ]
+Posted by: pesho
+Answer Body: rarara
+--------------------
+You do not have enough permission to perform the desired operation
+Logout success
+User pesho successfully logged in
+Operation not permitted. You have to open a question first
+[ Question ID: 1 ]
+Posted by: pesho
+Question Title: HBO
+Question Body: top_movies
+====================
+Answers:
+[ Answer ID: 1 ]
+Posted by: gosho
+Answer Body: brrrrr
+--------------------
+[ Answer ID: 2 ]
+Posted by: pesho
+Answer Body: rarara
+--------------------
+Answer with Id: 2 successfully made best answer
+[ Question ID: 1 ]
+Posted by: pesho
+Question Title: HBO
+Question Body: top_movies
+====================
+Answers:
+********************
+[ Answer ID: 2 ]
+Posted by: pesho
+Answer Body: rarara
+--------------------
+********************
+[ Answer ID: 1 ]
+Posted by: gosho
+Answer Body: brrrrr
+--------------------

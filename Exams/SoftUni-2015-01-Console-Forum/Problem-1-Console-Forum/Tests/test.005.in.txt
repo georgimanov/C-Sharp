@@ -1,0 +1,27 @@
+register pesho 123 pesho@mail.bg
+register gosho qwerty g@gmail.bg
+register pepi asfd p@abv.bg
+login pesho 123
+postQuestion HBO top_movies
+logout
+login gosho qwerty
+postQuestion cinema best_cinema
+logout
+login pepi asfd
+postQuestion club best_club
+showQuestions
+openQuestion 1
+postAnswer pepi1
+postAnswer pepi2
+logout
+login gosho qwerty
+openQuestion 1
+postAnswer gosho1
+openQuestion 3
+postAnswer whaaat
+logout
+login pesho 123
+openQuestion 1
+makeBestAnswer 2
+showQuestions
+exit

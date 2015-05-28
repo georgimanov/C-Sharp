@@ -1,0 +1,17 @@
+openQuestion 33
+postQuestion proba greshka
+register pesho 123 pesho@mail.bg
+register gosho 123 g@gmail.bg
+login pesho 123
+postQuestion HBO top_movies
+openQuestion 1
+postAnswer matrix
+logout
+login gosho 123
+openQuestion 1
+postAnswer ring
+logout
+login gosho 123
+showQuestions
+exit
+

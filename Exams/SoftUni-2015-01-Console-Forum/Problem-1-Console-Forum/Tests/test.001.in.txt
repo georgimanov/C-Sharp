@@ -1,0 +1,7 @@
+register alex q123 alex@mail.bg
+login alex q123
+showQuestions
+postQuestion znanie haide_na_hija
+showQuestions
+exit
+

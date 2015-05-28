@@ -1,0 +1,60 @@
+User pesho with Id: 2 successfully registered
+User gosho with Id: 3 successfully registered
+User pepi with Id: 4 successfully registered
+User pesho successfully logged in
+Question with Id: 1 successfully posted
+[ Question ID: 1 ]
+Posted by: pesho
+Question Title: HBO
+Question Body: top_movies
+====================
+No answers
+Answer with Id: 1 successfully posted
+Logout success
+User gosho successfully logged in
+[ Question ID: 1 ]
+Posted by: pesho
+Question Title: HBO
+Question Body: top_movies
+====================
+Answers:
+[ Answer ID: 1 ]
+Posted by: pesho
+Answer Body: matrix
+--------------------
+Answer with Id: 2 successfully posted
+Logout success
+User pepi successfully logged in
+[ Question ID: 1 ]
+Posted by: pesho
+Question Title: HBO
+Question Body: top_movies
+====================
+Answers:
+[ Answer ID: 1 ]
+Posted by: pesho
+Answer Body: matrix
+--------------------
+[ Answer ID: 2 ]
+Posted by: gosho
+Answer Body: starwars
+--------------------
+Answer with Id: 3 successfully posted
+[ Question ID: 1 ]
+Posted by: pesho
+Question Title: HBO
+Question Body: top_movies
+====================
+Answers:
+[ Answer ID: 1 ]
+Posted by: pesho
+Answer Body: matrix
+--------------------
+[ Answer ID: 2 ]
+Posted by: gosho
+Answer Body: starwars
+--------------------
+[ Answer ID: 3 ]
+Posted by: pepi
+Answer Body: jupiter_ascending
+--------------------

@@ -1,0 +1,17 @@
+register pesho 123 pesho@mail.bg
+register gosho qwerty g@gmail.bg
+register pepi asfd p@abv.bg
+login pesho 123
+postQuestion HBO top_movies
+openQuestion 1
+postAnswer matrix
+logout
+login gosho qwerty
+openQuestion 1
+postAnswer starwars
+logout
+login pepi asfd
+openQuestion 1
+postAnswer jupiter_ascending
+showQuestions
+exit

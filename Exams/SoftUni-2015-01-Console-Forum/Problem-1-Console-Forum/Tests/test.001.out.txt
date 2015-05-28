@@ -1,0 +1,10 @@
+User alex with Id: 2 successfully registered
+User alex successfully logged in
+No questions
+Question with Id: 1 successfully posted
+[ Question ID: 1 ]
+Posted by: alex
+Question Title: znanie
+Question Body: haide_na_hija
+====================
+No answers
