@@ -19,20 +19,10 @@ namespace ConsoleForum.Commands
         {
             if (this.Forum.Questions.Any())
             {
-                this.Forum.Output.AppendLine(
-                    string.Format(this.Forum.Questions.ToString())
-                    );
-
-                if (this.Forum.CurrentQuestion.Answers.Any())
+                var questions = this.Forum.Questions.OrderBy(x => x.Id);
+                foreach (var question in questions)
                 {
-                    this.Forum.Output.AppendLine(
-                        string.Format(this.Forum.CurrentQuestion.Answers.ToString())
-                        );
-                }
-                else
-                {
-                    this.Forum.Output.AppendLine(
-                        string.Format(Messages.NoAnswer));
+                    this.Forum.Output.AppendLine(question.ToString());
                 }
             }
             else

@@ -22,11 +22,21 @@ namespace ConsoleForum.Commands
             var users = this.Forum.Users;
             string username = this.Data[1];
             string password = PasswordUtility.Hash(this.Data[2]);
-            // TODO: Implement user/password check
 
+            if (this.Forum.IsLogged)
+            {
+                throw new CommandException(Messages.AlreadyLoggedIn);
+            }
+
+            if (!users.Any(u => u.Username == username && u.Password == password))
+            {
+                throw new CommandException(Messages.InvalidLoginDetails);
+            }
+
+            this.Forum.CurrentUser = this.Forum.Users.FirstOrDefault(x => x.Username == username);
+            
             this.Forum.Output.AppendLine(
-                string.Format(Messages.LoginSuccess, username)
-                );
+                    string.Format(Messages.LoginSuccess, username));
         }
     }
 }

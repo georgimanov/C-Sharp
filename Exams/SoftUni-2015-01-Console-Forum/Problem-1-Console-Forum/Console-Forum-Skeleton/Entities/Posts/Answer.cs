@@ -13,5 +13,19 @@ namespace ConsoleForum.Entities.Posts {
             : base(id, body, author)
         {
         }
+
+        public override string ToString()
+        {
+            var baseString = base.ToString();
+
+            StringBuilder sb = new StringBuilder();
+
+            sb.AppendLine(String.Format(new string('*', 20)));
+            sb.AppendLine(baseString.Trim());
+            sb.AppendLine(string.Format("{0} Body: {1}", this.GetType().Name, this.Body));
+            sb.AppendLine(String.Format(new string('-', 20)));
+            
+            return sb.ToString();
+        }
     }
 }

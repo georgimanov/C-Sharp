@@ -18,6 +18,33 @@ namespace ConsoleForum.Entities.Posts
         }
 
         public string Title { get; set; }
+
+        public Answer BestAnswer { get; set; }
+
         public IList<IAnswer> Answers { get; private set; }
+
+        public override string ToString()
+        {
+            StringBuilder sb = new StringBuilder();
+            sb.AppendLine(string.Format("{0} Title: {1}", this.GetType().Name, this.Title));
+            sb.AppendLine(string.Format("{0} Body: {1}", this.GetType().Name, this.Body));
+            sb.AppendLine(new string('=', 20));
+
+            if (this.Answers.Any())
+            {
+                sb.AppendLine("Answers:");
+                var answers = this.Answers.OrderBy(a => a.Id);
+                foreach (var answer in answers)
+                {
+                    sb.AppendLine(answer.ToString());
+                }
+            }
+            else
+            {
+                sb.AppendLine("No answers");
+            }
+
+            return base.ToString() + sb.ToString().Trim();
+        }
     }
 }
